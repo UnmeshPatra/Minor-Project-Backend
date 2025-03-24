@@ -1,0 +1,19 @@
+{
+    "categories": {
+        "meat": "meat",
+        "beauty": "beauty",
+        "Beauty": "beauty",
+        "Clothing": "clothing",
+        "Meat": "meat",
+        "Groceries": "grocery"
+    },
+    "products": {
+        "mens harcut": "men's haircut",
+        "lobster": "Lobster (1kg)",
+        "Shirt": "T-Shirt",
+        "men's haircut": "men's haircut",
+        "Lobster": "Lobster (1kg)",
+        "Men's haircut": "men's haircut",
+        "shirt": "T-Shirt"
+    }
+}
