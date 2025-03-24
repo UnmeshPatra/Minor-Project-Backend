@@ -22,6 +22,18 @@ def evaluate():
     option = data.get("option")
     selection_type = data.get("selectionType")  # Expected to be "time" or "price"
     
+    # Check for user location; expect an array with two numbers [lat, lon]
+    user_location = data.get("user_location")
+    if user_location and isinstance(user_location, list) and len(user_location) == 2:
+        try:
+            user_location = (float(user_location[0]), float(user_location[1]))
+            print(user_location)
+        except (ValueError, TypeError):
+            return jsonify({"message": "Invalid user_location format. Must be [lat, lon]."}), 400
+    else:
+        # Fallback default location
+        user_location = (20.3488, 85.8162)
+
     if option == "categorical":
         # Expecting "data" to be a list of dictionaries
         items = data.get("data")
@@ -43,7 +55,7 @@ def evaluate():
                 parsed_data[cat] = name
 
         filter_choice = 1 if selection_type == "time" else 2
-        result = evaluate_recommendations(parsed_data, filter_choice, selection_type)
+        result = evaluate_recommendations(parsed_data, filter_choice, selection_type, user_location=user_location)
         return jsonify(result)
     
     elif option == "manual":
@@ -53,7 +65,9 @@ def evaluate():
             return jsonify({"message": "Data should be a string for manual input."}), 400
 
         prompt = (
-            f"You will be provided input which will contain one or more items. Convert the input into a dictionary of the where category is one of the following : Beauty, Clothing, Electronics, Groceries, Medicine, Meat. and then the item. The input will contain items and they need to be categorized in this format"
+            f"You will be provided input which will contain one or more items. Convert the input into a dictionary "
+            f"where the category is one of the following: Beauty, Clothing, Electronics, Groceries, Medicine, Meat "
+            f"and then the item. The input will contain items and they need to be categorized in this format: "
             f"{{Category1: Item1, Category2: Item2, ...}} Input: {manual_input}"
         )
         print(prompt)
@@ -86,7 +100,7 @@ def evaluate():
             return jsonify({"message": "Error parsing the dictionary from Gemini output."}), 400
         
         filter_choice = 1 if selection_type == "time" else 2
-        result = evaluate_recommendations(parsed_data, filter_choice, selection_type)
+        result = evaluate_recommendations(parsed_data, filter_choice, selection_type, user_location=user_location)
         return jsonify(result)
     
     else:

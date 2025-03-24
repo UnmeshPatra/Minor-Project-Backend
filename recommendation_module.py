@@ -63,7 +63,7 @@ def convert_numpy_types(data):
         return data
 
 def evaluate_recommendations(test_input: dict, filter_choice: int, selection_type: str, 
-                             user_location=(20.3488, 85.8162), selected_path_index: int = 0):
+                             user_location: tuple, selected_path_index: int = 0):
     """
     Evaluate shop recommendations based on input data.
     
@@ -71,7 +71,7 @@ def evaluate_recommendations(test_input: dict, filter_choice: int, selection_typ
       - test_input: dict mapping category names to items, e.g. {"meat": "lobster", "beauty": "mens harcut"}
       - filter_choice: int (1 for time-based filtering on queue_size, 2 for price-based, else rating-based)
       - selection_type: string indicating evaluation type ("categorical" or "manual")
-      - user_location: tuple (lat, lon) for distance calculations (default is provided)
+      - user_location: tuple (lat, lon) provided by the frontend
       - selected_path_index: index (0-based) to select one of the generated shop paths (default=0)
       
     Returns:
@@ -165,11 +165,11 @@ def evaluate_recommendations(test_input: dict, filter_choice: int, selection_typ
         "possible_paths": possible_paths,
         "evaluationType": selection_type,
     }
-    # Convert numpy types to native Python types for JSON serialization
     return convert_numpy_types(result)
 
 # For testing purposes only. This block will not run when imported.
 if __name__ == "__main__":
     test_input = {"meat": "lobster", "beauty": "mens harcut"}
-    result = evaluate_recommendations(test_input, 1, "categorical")
+    # Pass a sample user location from the frontend
+    result = evaluate_recommendations(test_input, 1, "categorical", user_location=(20.3488, 85.8162))
     print(json.dumps(result, indent=2))
