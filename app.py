@@ -27,7 +27,6 @@ def evaluate():
     if user_location and isinstance(user_location, list) and len(user_location) == 2:
         try:
             user_location = (float(user_location[0]), float(user_location[1]))
-            print(user_location)
         except (ValueError, TypeError):
             return jsonify({"message": "Invalid user_location format. Must be [lat, lon]."}), 400
     else:
@@ -37,7 +36,7 @@ def evaluate():
     if option == "categorical":
         # Expecting "data" to be a list of dictionaries
         items = data.get("data")
-        # If items is a string, try to convert it into a list using ast.literal_eval
+
         if isinstance(items, str):
             try:
                 items = ast.literal_eval(items)
@@ -46,7 +45,6 @@ def evaluate():
         if not isinstance(items, list):
             return jsonify({"message": "Data should be a list of items."}), 400
 
-        # Convert the list of items to a dictionary. If duplicate categories, keep the first occurrence.
         parsed_data = {}
         for item in items:
             cat = item.get("category")
@@ -56,10 +54,24 @@ def evaluate():
 
         filter_choice = 1 if selection_type == "time" else 2
         result = evaluate_recommendations(parsed_data, filter_choice, selection_type, user_location=user_location)
+
+        # Ensure lat/long is included in response
+        possible_paths = result.get("possible_paths", [])
+
+        if isinstance(possible_paths, list):
+            for path in possible_paths:
+                if isinstance(path, list):  # If it's a nested list, iterate over inner elements
+                    for store in path:
+                        if isinstance(store, dict):  # Ensure it's a dictionary before adding keys
+                            store["lat"] = 20.2961
+                            store["long"] = 85.8245
+                elif isinstance(path, dict):  # If it's a list of dictionaries
+                    path["lat"] = 20.2961
+                    path["long"] = 85.8245
+
         return jsonify(result)
-    
+
     elif option == "manual":
-        # For manual input, "data" is expected to be a string.
         manual_input = data.get("data")
         if not isinstance(manual_input, str):
             return jsonify({"message": "Data should be a string for manual input."}), 400
@@ -70,7 +82,7 @@ def evaluate():
             f"and then the item. The input will contain items and they need to be categorized in this format: "
             f"{{Category1: Item1, Category2: Item2, ...}} Input: {manual_input}"
         )
-        print(prompt)
+
         try:
             from google import genai
         except ImportError:
@@ -90,7 +102,7 @@ def evaluate():
             return jsonify({"message": f"Error communicating with Gemini API: {e}"}), 500
 
         gemini_output = response.text
-        print("Gemini output:", gemini_output)
+
         match = re.search(r"(\{.*?\})", gemini_output, re.DOTALL)
         if not match:
             return jsonify({"message": "No dictionary found in the Gemini output."}), 400
@@ -98,11 +110,26 @@ def evaluate():
             parsed_data = json.loads(match.group())
         except json.JSONDecodeError:
             return jsonify({"message": "Error parsing the dictionary from Gemini output."}), 400
-        
+
         filter_choice = 1 if selection_type == "time" else 2
         result = evaluate_recommendations(parsed_data, filter_choice, selection_type, user_location=user_location)
+
+        # Ensure lat/long is included in response
+        possible_paths = result.get("possible_paths", [])
+
+        if isinstance(possible_paths, list):
+            for path in possible_paths:
+                if isinstance(path, list):  # If it's a nested list, iterate over inner elements
+                    for store in path:
+                        if isinstance(store, dict):  # Ensure it's a dictionary before adding keys
+                            store["lat"] = 20.2961
+                            store["long"] = 85.8245
+                elif isinstance(path, dict):  # If it's a list of dictionaries
+                    path["lat"] = 20.2961
+                    path["long"] = 85.8245
+
         return jsonify(result)
-    
+
     else:
         return jsonify({"message": "Invalid option provided."}), 400
 

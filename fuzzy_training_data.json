@@ -5,7 +5,8 @@
         "Beauty": "beauty",
         "Clothing": "clothing",
         "Meat": "meat",
-        "Groceries": "grocery"
+        "Groceries": "grocery",
+        "Electronics": "electronic"
     },
     "products": {
         "mens harcut": "men's haircut",
@@ -14,6 +15,7 @@
         "men's haircut": "men's haircut",
         "Lobster": "Lobster (1kg)",
         "Men's haircut": "men's haircut",
-        "shirt": "T-Shirt"
+        "shirt": "T-Shirt",
+        "Laptop": "Laptop"
     }
 }

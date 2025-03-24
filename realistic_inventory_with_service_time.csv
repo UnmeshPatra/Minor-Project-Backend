@@ -553,7 +553,7 @@ shopId,productId,productName,price,discount,stockAvailability
 37,37012,Waxing (Full Body),3000,15,25
 37,37013,Beard Trim,450,18,24
 37,37014,Women's haircut,1650,17,5
-37,37015,men's haircut,800,8,36
+37,37015,men's haircut,800,8,35
 38,38001,Kurti,2750,6,21
 38,38002,Winter Coat,8500,6,33
 38,38003,Jacket,5750,15,12
@@ -2111,7 +2111,7 @@ shopId,productId,productName,price,discount,stockAvailability
 141,141010,Power Bank,5500,12,30
 141,141011,Gaming Mouse,8000,6,46
 141,141012,Gaming Console,52500,13,45
-141,141013,Laptop,140000,8,6
+141,141013,Laptop,140000,8,4
 141,141014,Vacuum Cleaner,32500,16,39
 141,141015,Bluetooth Speaker,10750,15,38
 142,142001,Mechanical Keyboard,14000,9,10
@@ -5721,7 +5721,7 @@ shopId,productId,productName,price,discount,stockAvailability
 382,382005,Crab (1kg),950,16,36
 382,382006,Lamb Chops (1kg),1175,7,12
 382,382007,Mutton Curry Cut (1kg),950,13,27
-382,382008,Lobster (1kg),1850,7,42
+382,382008,Lobster (1kg),1850,7,39
 382,382009,Chicken Breast (1kg),325,6,34
 382,382010,Mutton Ribs (1kg),1100,10,19
 382,382011,Pork Belly (1kg),1100,10,14
