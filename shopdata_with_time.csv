@@ -35,7 +35,7 @@ shopId,store,address ,category,latitude,longitude,rating,opening_time,closing_ti
 34,Omm Sai Saloon,"Sector A, Rasulgarh, Bhubaneswar, Odisha 751007, India",beauty,20.263405,85.823566,2.8,8:00,22:00,9,11.2,100.8
 35,Krishna Saloon And Spa,"Infront Of Royal Garden, Patia, Bhubaneswar, Odisha 751017, India",beauty,20.324513,85.772876,3.7,8:00,23:00,8,14.92,119.36
 36,ARYAN SALOON,"Gridco Colony, Bhoinagar, Bhubaneswar, Odisha 751022, India",beauty,20.202288,85.847608,4.1,10:00,22:00,41,2.88,118.08
-37,MAA SANTOSHI HAIR CUTTING SALOON,"6RVR+RQM, Tankapani Rd, Shiva Nagar, Kedar Gouri Vihar, Ratnakar Bagh, Brahmeswarpatna, Bhubaneswar, Odisha 751018, India",beauty,20.228341,85.864547,4.9,10:00,20:00,46,2.96,115.44
+37,MAA SANTOSHI HAIR CUTTING SALOON,"6RVR+RQM, Tankapani Rd, Shiva Nagar, Kedar Gouri Vihar, Ratnakar Bagh, Brahmeswarpatna, Bhubaneswar, Odisha 751018, India",beauty,20.228341,85.864547,4.9,10:00,20:00,47,2.96,115.44
 38,"Pantaloons (Saheed Nagar, Bhubaneswar)","Plot No A/B, Janpath Rd, nearby Indian Oil Petrol Pump, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.29284,85.892049,2.6,8:00,23:00,3,14.44,43.32
 39,Westside,"lot No. 2, Rev Plot No. 726, Khata No. 310, Unit No. 10 Mouza, Satya Nagar, Bhubaneswar, Odisha 751003, India",clothing,20.390372,85.832849,3.8,8:00,20:00,16,9.85,157.6
 40,Narula Cloth House Textiles,"Western market, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751019, India",clothing,20.316434,85.784105,4.1,10:00,21:00,26,5.02,130.52
@@ -139,7 +139,7 @@ shopId,store,address ,category,latitude,longitude,rating,opening_time,closing_ti
 138,Croma - Janpath Road,"Plot No 1230 & 1231, Janpath Rd, near Saheed Nagar, Bhoinagar, Bhubaneswar, Odisha 751022, India",electronic,20.284145,85.938727,2.0,10:00,21:00,6,10.82,64.92
 139,Reliance Digital,"LG1, 5, 6A, Forum, 6B & 7, Esplanade One Ln, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",electronic,20.270952,85.858103,1.3,10:00,22:00,10,11.87,118.7
 140,Croma - Patia,"A190, Patia Square, beside Big Wings Honda, Gayatri Vihar, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",electronic,20.223377,85.92152,3.1,8:00,21:00,13,7.36,95.68
-141,Indian Hobby Center,"Plot No 2296, Naibedya Complex, Doordarshan Colony, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",electronic,20.393248,85.794976,4.9,10:00,21:00,29,6.28,182.12
+141,Indian Hobby Center,"Plot No 2296, Naibedya Complex, Doordarshan Colony, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",electronic,20.393248,85.794976,4.9,10:00,21:00,31,6.28,182.12
 142,"Sagarika Electronics, BBSR Electronics Robotics & Aero Modlling","bus stop, Plot No.- M5/7 Infront of Acharya vihar-Jayadev vihar junction, Bhubaneswar, Odisha 751022, India",electronic,20.273376,85.862669,3.3,9:00,23:00,13,8.26,107.38
 143,Reliance Digital,"Khata No 474/576, Gr & 1st Floor, PN 437, Patia Rd, near Nandankanan Road, Patia, Bhubaneswar, Odisha 751024, India",electronic,20.269247,85.76728,3.8,9:00,21:00,7,10.64,74.48
 144,Reliance Digital Xpress Mini,"610, Meghdoot St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.230977,85.92289,2.0,10:00,20:00,10,11.67,116.7
@@ -380,7 +380,7 @@ shopId,store,address ,category,latitude,longitude,rating,opening_time,closing_ti
 379,EVEGRO,"SV- 46, Sambit Villa, Ghatikia, Bhubaneswar, Odisha 751003, India",meat,20.203324,85.811674,1.0,10:00,20:00,9,14.91,134.19
 380,Bhubaneswar Broiler- Order online on EVEGRO,"UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.214518,85.860776,2.6,9:00,23:00,0,11.8,0.0
 381,Munna mutton centre,"131/E, H.B Colony, Punjabi Colony, Satya Nagar, Bhubaneswar, Odisha 751007, India",meat,20.259997,85.767306,4.4,9:00,22:00,33,2.51,82.83
-382,Budhia chicken centre,"P.D.Market, CRP - DAV Rd, Gopabandhu Nagar, Bhubaneswar, Odisha 751012, India",meat,20.24382,85.907939,5.0,9:00,21:00,44,4.96,218.24
+382,Budhia chicken centre,"P.D.Market, CRP - DAV Rd, Gopabandhu Nagar, Bhubaneswar, Odisha 751012, India",meat,20.24382,85.907939,5.0,9:00,21:00,48,4.96,218.24
 383,CAPITAL BROILERS,"Plot no 16, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751030, India",meat,20.389822,85.877989,2.6,9:00,20:00,5,11.84,59.2
 384,Kookudu Chicken Wholesale and Retail,"8V4R+Q59, Balianta, Bhubaneswar, Odisha 752101, India",meat,20.299241,85.809342,5.0,8:00,21:00,27,5.24,141.48
 385,Mustafa Mutton Shop- Order online from EVEGRO,"Maa Kali daily market, Niladri Vihar Rd, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751023, India",meat,20.36431,85.942584,3.9,8:00,20:00,5,13.03,65.15
@@ -393,7 +393,7 @@ shopId,store,address ,category,latitude,longitude,rating,opening_time,closing_ti
 392,MIR MUTTON CENTRE,"7RHJ+9VG, Masjid Rd, AG Colony, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.283028,85.933089,3.4,8:00,20:00,14,7.23,101.22
 393,Kansei Khana (Chicken & Mutton shop),"1st Floor, Plot No 69/3989, Jharapada Canal Rd, Laxmisagar, Bhubaneswar, Odisha 751006, India",meat,20.313536,85.832958,1.1,10:00,23:00,9,14.16,127.44
 394,Mukul Non Veg World- Order online from EVEGRO,"Vss Nagar To Mancheswar Station Rd, DL Colony, Laxmi Nagar, Bhubaneswar, Odisha 751007, India",meat,20.267066,85.909546,4.7,8:00,23:00,50,2.83,141.5
-395,ODSHOP-Online Supermarket in Bhubaneswar,"Aiginia, Shreekhetra Vihar, Khandagiri, Bhubaneswar, Odisha 751019, India",meat,20.247323,85.865322,5.0,10:00,20:00,43,5.29,137.54
+395,ODSHOP-Online Supermarket in Bhubaneswar,"Aiginia, Shreekhetra Vihar, Khandagiri, Bhubaneswar, Odisha 751019, India",meat,20.247323,85.865322,5.0,10:00,20:00,47,5.29,137.54
 396,Crucnchy Munchie,"7R4W+WMG, Kalpana Square, Laxmisagar, Bhubaneswar, Odisha 751006, India",meat,20.394964,85.883349,2.4,10:00,23:00,0,10.14,0.0
 397,Haji Muntaj Ali Khan(Kala Mutton Shop),"Plot No=718, Near, Venus Inn St, Sweets, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",meat,20.285901,85.789725,3.6,9:00,20:00,13,7.03,91.39
 398,Punama gata old town,"Poonama Gate Flyover, Bhimatangi Housing Colony, Bhubaneswar, Odisha 751002, India",meat,20.304284,85.937697,4.8,9:00,22:00,42,3.93,165.06
