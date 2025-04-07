@@ -66,14 +66,14 @@ def evaluate_recommendations(test_input: dict, filter_choice: int, selection_typ
                              user_location: tuple, selected_path_index: int = 0):
     """
     Evaluate shop recommendations based on input data.
-    
+
     Parameters:
-      - test_input: dict mapping category names to items, e.g. {"meat": "lobster", "beauty": "mens harcut"}
+      - test_input: dict mapping category names to items, e.g. {"meat": "lobster", "grooming": "mens harcut"}
       - filter_choice: int (1 for time-based filtering on queue_size, 2 for price-based, else rating-based)
       - selection_type: string indicating evaluation type ("categorical" or "manual")
       - user_location: tuple (lat, lon) provided by the frontend
       - selected_path_index: index (0-based) to select one of the generated shop paths (default=0)
-      
+
     Returns:
       A dictionary with:
         - "selected_path": the chosen shop path (with updated token numbers),
@@ -123,10 +123,12 @@ def evaluate_recommendations(test_input: dict, filter_choice: int, selection_typ
         path_shops = []
         chosen_shops = set()
         for product, shops in final_shop_recommendations.items():
-            sorted_shops = shops[~shops["shopId"].isin(chosen_shops)].sort_values(by="rating", ascending=False)
-            if not sorted_shops.empty:
-                selected_shop = sorted_shops.iloc[0]
+            available_shops = shops[~shops["shopId"].isin(list(chosen_shops))]
+            available_shops = available_shops.sort_values(by="rating", ascending=False)
+            if not available_shops.empty:
+                selected_shop = available_shops.iloc[0]
                 chosen_shops.add(selected_shop["shopId"])
+                # Use the actual coordinates from the merged DataFrame
                 path_shops.append({
                     "shopId": selected_shop["shopId"],
                     "product": product,
@@ -135,6 +137,8 @@ def evaluate_recommendations(test_input: dict, filter_choice: int, selection_typ
                     "price": selected_shop["price"],
                     "distance": selected_shop["distance"],
                     "queue_size": selected_shop["queue_size"],
+                    "lat": selected_shop["latitude"],
+                    "long": selected_shop["longitude"],
                 })
         possible_paths.append(path_shops)
 
@@ -167,9 +171,7 @@ def evaluate_recommendations(test_input: dict, filter_choice: int, selection_typ
     }
     return convert_numpy_types(result)
 
-# For testing purposes only. This block will not run when imported.
 if __name__ == "__main__":
-    test_input = {"meat": "lobster", "beauty": "mens harcut"}
-    # Pass a sample user location from the frontend
+    test_input = {"meat": "lobster", "grooming": "mens harcut"}
     result = evaluate_recommendations(test_input, 1, "categorical", user_location=(20.3488, 85.8162))
     print(json.dumps(result, indent=2))

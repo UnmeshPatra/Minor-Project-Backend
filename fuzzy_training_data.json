@@ -1,8 +1,8 @@
 {
     "categories": {
         "meat": "meat",
-        "beauty": "beauty",
-        "Beauty": "beauty",
+        "grooming": "grooming",
+        "Grooming": "grooming",
         "Clothing": "clothing",
         "Meat": "meat",
         "Groceries": "grocery",
@@ -16,6 +16,19 @@
         "Lobster": "Lobster (1kg)",
         "Men's haircut": "men's haircut",
         "shirt": "T-Shirt",
-        "Laptop": "Laptop"
+        "Laptop": "Laptop",
+        "tshirt": "T-Shirt",
+        "Men's Haircut": "men's haircut",
+        "Hair Spa": "Hair Spa",
+        "Haircut": "haircut",
+        "Chicken": "chicken",
+        "Tshirt": "Shirt",
+        "milk": "Milk",
+        "haircut": "haircut",
+        "Jeans": "Jeans",
+        "Hoodie": "Hoodie",
+        "Toaster": "Toaster",
+        "chicken": "chicken",
+        "lobstert": "lobster"
     }
 }

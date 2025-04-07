@@ -1,413 +1,413 @@
 shopId,store,address ,category,latitude,longitude,rating,opening_time,closing_time,queue_size,avg_serving_time,estimated_clearance_time
-1,Moon saloon&spa,"Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751012, India",beauty,20.388896,85.849015,4.8,10:00,22:00,27,7.99,215.73
-2,The Grand 11 Spa & Saloon,"Unit 3, Plot no 20 unit, back side of BDA office, above Priyadarshini Handlooms, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",beauty,20.311172,85.79078,1.4,8:00,22:00,6,14.54,87.24
-3,CLEMOND FAMILY SALOON,"Ruchika Nursing Home, Ruchika Market, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",beauty,20.37495,85.774177,3.1,8:00,20:00,14,6.56,91.84
-4,SAMRAT SALOON,"Khandagiri, Bhubaneswar, Odisha 751030, India",beauty,20.232574,85.900954,4.8,10:00,20:00,22,6.17,135.74
-5,Snip Saloon,"Shop No 02, chandrasekharpur Acharyavihar Rd, near Kali Mandir, Gajapati Nagar, Bhubaneswar, Odisha 751017, India",beauty,20.327276,85.922876,4.3,8:00,20:00,16,5.68,90.88
-6,SUN MOON EXCLUSIVE SALOON AND SPA,"Nila apartment, B O, 751007, I coluney, Satya Nagar, Bhubaneswar, Odisha 751007, India",beauty,20.30577,85.789622,4.8,9:00,20:00,41,3.93,161.13
-7,Maa Saloon,"7Q3M+CW6, near Kolathia Bus Staop, Shreekhetra Vihar, Khandagiri, Bhubaneswar, Odisha 751019, India",beauty,20.217548,85.907359,1.6,8:00,20:00,6,14.93,89.58
-8,Uday Hairline Saloon,"Patrapada Rd Bhagbanpur, Plot -230, Kalinga Vihar, Bhagawanpur, Bhubaneswar, Odisha 751019, India",beauty,20.328457,85.874239,3.1,10:00,23:00,6,11.29,67.74
-9,Angels Spa & Saloon,"7RWM+J3M, Acharya Vihar Traffic Square, NH16, beside Cookies, Bhubaneswar, Odisha 751013, India",beauty,20.306623,85.8807,2.3,9:00,22:00,9,10.91,98.19
-10,One Dream Saloon,"7QJV+PJ6, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",beauty,20.292103,85.802918,4.5,9:00,21:00,25,7.34,183.5
-11,FRIEND'S SALOON Gents n kids,"Vendizone back side, Phase II, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",beauty,20.384569,85.798267,3.2,9:00,20:00,9,14.87,133.83
-12,Ashish Hair Cutting Saloon,"A-224 Ispat, Market St, Unit 8, Gopabandhu Nagar, Bhubaneswar, Odisha 751003, India",beauty,20.201274,85.874147,4.6,8:00,20:00,47,3.57,167.79
-13,Looks Saloon And Spa,"N 3, Block N3, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",beauty,20.231282,85.820378,2.7,9:00,22:00,8,14.78,118.24
-14,Royal Hair Saloon And Parlour,"front side, Kedar Gouri Vihar, Old Town, Bhubaneswar, Odisha 751002, India",beauty,20.322115,85.848985,4.8,9:00,21:00,16,7.43,118.88
-15,Wild flower unisex saloon and spa,"2nd Floor, BMC Bhawani Mall, Saheednagar Block-A, Bhubaneswar, Odisha 751007, India",beauty,20.381404,85.899333,3.8,9:00,22:00,13,7.79,101.27
-16,Santoshi Saloon,"7VXC+R8M, Nuasahi, Rasulgarh, Bhubaneswar, Odisha 751010, India",beauty,20.271382,85.896515,3.2,10:00,20:00,12,5.41,64.92
-17,Aviglam Unisex Saloon,"6VV4+H3Q, Tankapani Rd, Brahmeswarpatna, Bhubaneswar, Odisha 751018, India",beauty,20.331106,85.761721,3.1,10:00,21:00,7,11.93,83.51
-18,BJ 'S Hair Trendz The Saloon,"Plot No.655/1562, NH-5, Tamando, Tamando Bazar, Patrapada, Bhubaneswar, Odisha 752054, India",beauty,20.276402,85.821421,4.8,8:00,23:00,38,4.42,167.96
-19,Unique Beauty Saloon,"Lane No -2, Road Number 16, Samantarapur, Mahaveer Nagar, Bhubaneswar, Odisha 751002, India",beauty,20.34681,85.811579,3.5,10:00,21:00,14,5.54,77.56
-20,Saloon,"7RF4+J5P, Krushi Bihar Colony, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751008, India",beauty,20.202652,85.752889,3.5,9:00,21:00,8,10.82,86.56
-21,Manoj Saloon,"N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",beauty,20.337847,85.89278,3.7,9:00,21:00,7,13.5,94.5
-22,New Haircut Muna Saloon,"Maitrivihar, in front of NEW, LIC Colony, Bhubaneswar, Odisha 751023, India",beauty,20.350075,85.926758,4.9,10:00,20:00,37,4.94,158.08
-23,Saloon,"7R6Q+544, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",beauty,20.272408,85.809125,3.9,10:00,20:00,11,6.22,68.42
-24,ANGEL RASMI SMART SALOON,"Puri - Cuttack Rd, in front of Gugnani Honda service centre, Chintamaniswar, chack, Bhubaneswar, Odisha 751006, India",beauty,20.22689,85.785336,4.9,8:00,20:00,10,11.53,115.3
-25,Sangram Saloon,"7RX6+MWX, Saliasahi Rd, Nayapalli, Bhubaneswar, Odisha 751012, India",beauty,20.333192,85.897113,3.2,9:00,23:00,11,8.13,89.43
-26,ATTITUDE Saloon,"Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003, India",beauty,20.35565,85.79809,1.4,8:00,21:00,2,13.16,26.32
-27,Rose Saloon & Spa,"infront of, Chintamaniswar temple road, 2nd Ln, Laxmisagar, Bhubaneswar, Odisha 751001, India",beauty,20.264873,85.861426,4.8,10:00,21:00,27,8.33,224.91
-28,Nirankar Hair Saloon,"Balianta to SH 60, Balianta, Bhubanpur, Bhubaneswar, Odisha 752101, India",beauty,20.250302,85.842432,1.3,8:00,20:00,4,11.93,47.72
-29,Newstar Gents Saloon,"Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003",beauty,20.222361,85.820166,4.9,9:00,23:00,32,4.02,128.64
-30,Papu saloon,"Ganesh Mandir Rd, Bharatpur, Bhubaneswar, Odisha 751003, India",beauty,20.323078,85.898776,4.3,10:00,21:00,13,7.96,103.48
-31,MR saloon,"8RM5+PV8, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",beauty,20.220109,85.817289,3.8,9:00,21:00,11,9.34,102.74
-32,Clear Touch Saloon & Spa,"Ratnakar Bagh, Brahmeswarpatna, Bhubaneswar, Odisha 751002, India",beauty,20.323441,85.808557,1.1,10:00,23:00,4,12.44,49.76
-33,OMM MAA BATA MANGALA SALOON & PARLOUR,"6QRH+83J, AIIMS Rd, Patrapada, Bhubaneswar, Odisha 751019, India",beauty,20.353758,85.867471,3.4,10:00,22:00,17,9.77,166.09
-34,Omm Sai Saloon,"Sector A, Rasulgarh, Bhubaneswar, Odisha 751007, India",beauty,20.263405,85.823566,2.8,8:00,22:00,9,11.2,100.8
-35,Krishna Saloon And Spa,"Infront Of Royal Garden, Patia, Bhubaneswar, Odisha 751017, India",beauty,20.324513,85.772876,3.7,8:00,23:00,8,14.92,119.36
-36,ARYAN SALOON,"Gridco Colony, Bhoinagar, Bhubaneswar, Odisha 751022, India",beauty,20.202288,85.847608,4.1,10:00,22:00,41,2.88,118.08
-37,MAA SANTOSHI HAIR CUTTING SALOON,"6RVR+RQM, Tankapani Rd, Shiva Nagar, Kedar Gouri Vihar, Ratnakar Bagh, Brahmeswarpatna, Bhubaneswar, Odisha 751018, India",beauty,20.228341,85.864547,4.9,10:00,20:00,47,2.96,115.44
-38,"Pantaloons (Saheed Nagar, Bhubaneswar)","Plot No A/B, Janpath Rd, nearby Indian Oil Petrol Pump, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.29284,85.892049,2.6,8:00,23:00,3,14.44,43.32
-39,Westside,"lot No. 2, Rev Plot No. 726, Khata No. 310, Unit No. 10 Mouza, Satya Nagar, Bhubaneswar, Odisha 751003, India",clothing,20.390372,85.832849,3.8,8:00,20:00,16,9.85,157.6
-40,Narula Cloth House Textiles,"Western market, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751019, India",clothing,20.316434,85.784105,4.1,10:00,21:00,26,5.02,130.52
-41,Jockey Exclusive Store,"N4/237, Indradhanu Market Rd, N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",clothing,20.213911,85.752531,4.6,10:00,20:00,40,2.07,82.8
-42,Blackberrys,"Plot No 361, Anuj Time Square, Rupali St, Janpath, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.239043,85.88559,1.3,8:00,22:00,8,10.59,84.72
-43,Odissy Enterprises A Complete Uniforms Center,"Plot No- 730(P), Opp_ NABARD, Near Kasturaba School,, State Bank Beherasahi Road, Nayapalli, Bhubaneswar, Odisha 751012, India",clothing,20.358303,85.777646,4.5,10:00,20:00,27,8.77,236.79
-44,The Raymond shop,"364, Janpath Rd, near Malabar Gold, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.319098,85.785929,4.6,10:00,20:00,21,8.45,177.45
-45,Lifestyle Stores,"Unit No, 32 & 721, Esplanade One Ln, Mall, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.227106,85.763319,4.6,10:00,23:00,34,2.58,87.72
-46,Manyavar,"364, Janpath Rd, near Reliance Trends, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.268796,85.871826,3.1,9:00,23:00,15,5.72,85.8
-47,Zudio - RUPALI SQUARE bhubaneswar,"Number No- 360, Vavi Grand GA Plot, 360, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.273569,85.792192,3.6,9:00,20:00,13,6.63,86.19
-48,"Zudio, Lewis Road","Panthanivas, Lewis Rd, Bhubaneswar, Odisha 751014, India",clothing,20.26538,85.872603,3.7,8:00,23:00,10,13.49,134.9
-49,Sridurga - A family cloth store,"253/2579 NH-16, Service Rd S, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.30946,85.764289,4.2,8:00,23:00,15,7.78,116.7
-50,Geeta Fashions,"Market Building, BMC Keshari Mall, 2nd St, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.320395,85.883312,3.3,9:00,21:00,18,7.17,129.06
-51,Manyavar,"721, SN F/133, 1st Floor, Esplanade One, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.28993,85.810262,4.6,8:00,21:00,13,8.27,107.51
-52,Padma,"7R6Q+V87, 11th St, Ashok Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.270062,85.768881,4.0,8:00,22:00,37,3.35,123.95
-53,The Swayamvar,"Shop no 4 panda lifestyle, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.393788,85.936609,4.8,10:00,23:00,45,3.82,171.9
-54,Rajratan - clothing store in Bhubaneswar,"Sriya Square 1, Janpath Rd, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.371426,85.916213,4.2,10:00,20:00,41,3.94,161.54
-55,Blackberrys,"Plot No 193, near Tata chroma, Gayatri Vihar, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.330043,85.814704,4.8,9:00,22:00,38,4.28,162.64
-56,TRENDS,"Near Garage Square Samantrapur Canara Bank Samantarapur Branch, Jagannath Sadak, Bhubaneswar, Odisha 751002, India",clothing,20.370728,85.813992,4.9,10:00,20:00,37,4.68,173.16
-57,Queen's Collection Ex ( Saheed Nagar ),"2nd floor, 242, Janpath Rd, above H&M store, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.377254,85.855275,4.6,8:00,22:00,27,6.83,184.41
-58,Jhilimili Textile pvt ltd,"363, Swagata hotel, lane, Bhubaneswar, Odisha 751006, India",clothing,20.364717,85.875349,2.6,10:00,22:00,8,14.89,119.12
-59,Cotton King,"150, Raj Path, near Gangaram, Ashok Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.385466,85.834848,4.6,10:00,23:00,12,5.62,67.44
-60,ODC HANDLOOM,"New, Jagamara Rd, BBSR, Jagamara, Bhubaneswar, Odisha 751030, India",clothing,20.227411,85.840617,1.2,10:00,23:00,1,11.56,11.56
-61,PRIYADARSHINI HANDLOOM,"Plot no-20, Unit, 3, behind BDA Office, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.292427,85.760708,3.1,9:00,23:00,20,8.95,179.0
-62,Bazar India,"R.K Avenue, KIIT Road, beside Domino`s Pizza, Bhubaneswar, Odisha 751024, India",clothing,20.244462,85.753525,4.6,9:00,22:00,25,5.45,136.25
-63,SN's SIGNATURE COLLECTION,"Shop no 8, BDA Market Complex, in front of debaray college, Sabera Colony, Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751012, India",clothing,20.373547,85.868033,2.7,9:00,23:00,7,11.66,81.62
-64,"Fashion Paradise Boutique, Expert Stitching Services, Best fashion Design in Bhubaneswar, Wedding guest outfit","235/2258 At Venus Daily Mart, S.S. Vihar Road, Damana, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",clothing,20.349039,85.764803,3.5,10:00,23:00,8,14.3,114.4
-65,Manyavar & Mohey,"Plot No 372/4264, Rajkumar Agency, Main Rd, opposite Union Bank, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.24018,85.920544,2.0,10:00,23:00,3,12.67,38.01
-66,Jockey Exclusive Store,"Shop No 258, Puri - Cuttack Rd, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006, India",clothing,20.318005,85.876282,3.6,9:00,21:00,5,13.58,67.9
-67,Manish Traders,"Bapuji Nagar, Chaudhuri, market, near union bank, Bhubaneswar, Odisha, India",clothing,20.312966,85.921611,3.3,9:00,23:00,18,6.59,118.62
-68,Brand Hub,"8RP8+C66, Phase-VII, Rangeswar Nagar, Sailashree Vihar, 7, Bhubaneswar, Odisha 751021, India",clothing,20.277503,85.847391,3.9,10:00,20:00,18,5.21,93.78
-69,Fashion Point,"F3g-69,I.D.Market,IRC Village, Bhubaneswar, Odisha 751015, India",clothing,20.300997,85.840378,4.2,9:00,21:00,31,4.01,124.31
-70,Bata Shoe Store,"67, Kalpana Square, Laxmisagar, Bhubaneswar, Odisha 751006, India",clothing,20.215991,85.928449,4.8,8:00,22:00,14,5.16,72.24
-71,Blackberrys,"Utkal Galleria Mall, SN FF/106 & 107, Gautam Nagar St, opposite Odisha State Museum, Kalpana Square, Bapuji Nagar, Bhubaneswar, Odisha 751014, India",clothing,20.246804,85.808511,3.6,10:00,20:00,16,6.43,102.88
-72,Odisha Art Emporium,"54/A, opposite of The Royale Midtown Hotel, Ashok Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.264573,85.942231,1.2,10:00,20:00,9,14.98,134.82
-73,VAN HEUSEN,"1St and Ground Floor, Plot No 78, Janpath Rd, next to TVS Showroom, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.348095,85.866491,3.7,8:00,21:00,8,13.87,110.96
-74,Go Colors,"2, Plot# 501, Janpath Rd, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.356651,85.830923,3.1,9:00,21:00,19,8.93,169.67
-75,Mahesh Cloth Store | Uniform Store & Jockey Store in Bhubaneswar | Saree And Dress Material Shop in Bhubaneswar,"C/51, Sahid Nagar, Market Building, Infront Of BMC Bhawani Mall, Bhubaneswar, Odisha 751007, India",clothing,20.360155,85.949829,4.4,8:00,22:00,19,7.85,149.15
-76,TRENDS,"Esplanade one Mall,First Floor-24A/25/26 First Floor-24A, 25/26, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.319919,85.806131,3.1,9:00,20:00,10,11.03,110.3
-77,Geeta Saree House,"Shop No: (KC, Kalinga Complex, 6-11, Raj Path, in front of Market Building, Unit 1, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.299074,85.766831,3.3,10:00,20:00,11,8.74,96.14
-78,Amber,"Plot no. 1/2321, plot no. 2 and 3/2576, opp. Indian Oil Petrol Pump, Lingipur, Bhubaneswar, Odisha 754002, India",clothing,20.37584,85.824028,2.2,8:00,21:00,7,12.79,89.53
-79,BIBA,"2, 501, Janpath Rd, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.215063,85.924409,3.1,9:00,22:00,7,13.2,92.4
-80,Blackberrys,"UG02 & UG003, Ground Floor, Khordha, DN Regalia Rd, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.208996,85.932616,3.1,9:00,21:00,16,7.32,117.12
-81,Jockey Exclusive Store,"Plot No. : 516/1675, opposite to BB-BHUBHANESHWAR- PATIA- MARUTI MALL, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.24646,85.759666,4.1,8:00,22:00,23,5.08,116.84
-82,Pan America,"Unit - 2, BMC Keshari Mall, 43, 44, 45, Market Building, near Market Building, Bhubaneswar, Odisha 751009, India",clothing,20.279157,85.791646,3.8,8:00,23:00,18,8.25,148.5
-83,AZAD TEXTILES,"5565, Lane Number 3, Gautam Nagar, Bhubaneswar, Odisha 751014, India",clothing,20.340009,85.913795,1.6,10:00,21:00,2,14.03,28.06
-84,Kalaniketan,"Shop No. 02, Near Rajdhani Petrol Pump, Market Building, Western Tower, Unit-2, Bhubaneswar, Odisha 751009, India",clothing,20.294188,85.891395,3.5,10:00,22:00,8,11.0,88.0
-85,TENSTAR SPORTS WEAR,"Ga 18, Bharatpur, Bhubaneswar, Odisha 751003, India",clothing,20.326393,85.922644,3.8,9:00,22:00,6,13.61,81.66
-86,Kilol Bhubaneswar,"Devika Enterprises, 258/2306, behind Hotel Mayfair Convention, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",clothing,20.277666,85.795913,2.1,8:00,23:00,1,11.9,11.9
-87,THE FASHION STREET,"jagmara road ,malicik complex Line 6, opp. khadim store, Jagamara, Bhubaneswar, Odisha 751030, India",clothing,20.282093,85.830888,2.4,8:00,21:00,6,14.24,85.44
-88,Louis Philippe - Patia,"PN 421/19/2420,421, 2421 & 421/1617/2417, Nandan Kanan Rd, Bajrang Vihar, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.333864,85.813456,4.0,9:00,20:00,23,6.56,150.88
-89,Odisha Handloom Emporium,"22, Western Tower, Near Rajdhani Petrol Pump, Market Building, Unit 2, Bhubaneswar, Odisha 751009, India",clothing,20.26982,85.786631,1.8,10:00,20:00,4,11.71,46.84
-90,Bunkaari India Weaving Handloom Fashion Store (Bhubaneswar),"Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751017, India",clothing,20.394507,85.894027,2.0,10:00,22:00,6,13.74,82.44
-91,Tribal World,"7RQR+MM4, IPICOL Rd, UNIT- 9, Bhubaneswar, Odisha 751022, India",clothing,20.341402,85.889128,1.8,9:00,21:00,4,13.49,53.96
-92,Jockey Preferred Store,"At, near Khimji Showroom, near Rupali Ganguram, Siripur, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003, India",clothing,20.236118,85.858485,2.7,10:00,20:00,0,14.24,0.0
-93,Lata Garments,"Savitri Tower, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.356323,85.885392,4.8,10:00,21:00,26,9.43,245.18
-94,Pramila Cloth Store,"Shop No F3g-54, Indradhanu Market, Irc Village, Nayapalli, Indradhanu Market, Bhubaneswar, Odisha 751012, India",clothing,20.393504,85.853767,3.2,8:00,21:00,20,7.62,152.4
-95,Labdh by Pallavi,"2nd floor, plot no 246, Lewis Rd, near shree hospital, BJB Nagar, Bhubaneswar, Odisha 751014, India",clothing,20.383612,85.85077,5.0,8:00,22:00,19,8.43,160.17
-96,"Maa Bastralaya, Plot no 77,Rasulgarh","Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.264587,85.946612,1.9,10:00,23:00,10,10.34,103.4
-97,INDIAN BRIDE,"Rath Rd, Barik Sahi, Old Town, Bhubaneswar, Odisha 751002, India",clothing,20.390236,85.910552,3.5,9:00,23:00,9,12.55,112.95
-98,Manish traders,"Manish Traders, Gouri Garden, Phase 2, Old Town, Bhubaneswar, Odisha 751002, India",clothing,20.241396,85.934382,4.4,9:00,21:00,19,8.14,154.66
-99,Lakshaya Enterprises,"867, Garage Chhak, Sriram Nagar, Old Town, Bhubaneswar, Odisha 751002, India",clothing,20.301389,85.925291,2.0,9:00,20:00,8,11.32,90.56
-100,Denim House,"749, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.360725,85.80701,4.6,10:00,23:00,11,8.56,94.16
-101,Monali Bastralaya,"6QXV+23G, Near Ram Mandir, Panchasakha Nagar, Dumduma, Bhubaneswar, Odisha 752019, India",clothing,20.366522,85.920105,3.5,9:00,21:00,14,8.76,122.64
-102,Mango Esplanade iconic,"Shop no: 24a, 25, Esplanade Forum Mall, 26, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.278185,85.799464,3.4,8:00,22:00,17,6.92,117.64
-103,"Allen Solly ( Men's wear ) - Rasulgarh Industrial Estate, Bhubaneswar","First floor 27 & 28, Allen Solly, Forum Esplanade, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.255231,85.763015,1.8,10:00,23:00,3,13.98,41.94
-104,Rashmi Collection,"7R7J+PRM, Unit - I, Kalinga Complex, Rajpath, Infront of Market Building, Bhubaneswar, Odisha 751009, India",clothing,20.291878,85.831117,1.1,10:00,23:00,5,14.25,71.25
-105,Trigger Jeans,"797, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.368852,85.910051,2.7,8:00,21:00,0,14.24,0.0
-106,The Arvind Store,"Plot No, 625-A, Maharishi College Rd, below Adidas Showroom, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.390107,85.907447,1.6,8:00,23:00,8,14.56,116.48
-107,Padmaja's Mantra,"BMC Bhawani Mall, 749, 2nd Street, near 751007, Unit-2, Saheed Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.219114,85.768805,3.0,8:00,22:00,15,8.63,129.45
-108,Levi's Exclusive Store,"305, Industrial Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.338696,85.79176,4.6,9:00,23:00,40,2.23,89.2
-109,Being Human Clothing,"Esplanade One ,Shop No.UG15,16,Rasulgarh,721, Bhubaneswar, Odisha, India",clothing,20.327258,85.810188,4.7,9:00,20:00,24,8.11,194.64
-110,Soch,"FF/1/10, FF1, 11, Esplanade One Ln, Mall 721, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.265275,85.823979,3.8,8:00,23:00,8,14.01,112.08
-111,Jockey Exclusive Store,"Plot 178E, near GOCOOL Caf? Indian Oil, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",clothing,20.338343,85.880348,2.2,8:00,21:00,0,11.23,0.0
-112,B. K. FASHION,"8RJ9+VGM, Housing Board Colony, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",clothing,20.210808,85.765131,2.1,8:00,22:00,3,11.95,35.85
-113,Twills,"Bhagirathi Bhawan, Plot no. B/54, Janpath Rd, opposite Ramadevi Womens College, Saheed Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.323379,85.834452,3.3,10:00,22:00,9,12.91,116.19
-114,U.S. Polo Assn.,"Shop No C3, Inbox Blosaheed Nagar, BMC Bhawani Mall, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.35697,85.912542,1.6,10:00,23:00,5,11.05,55.25
-115,Zodiac Retail Store,"B-61, Janpath Rd, Saheed Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.332356,85.923162,4.9,8:00,23:00,19,5.15,97.85
-116,Sew Lovely Boutique,"G2, 28, Indradhanu Market Rd, Indradhanu Market, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",clothing,20.251898,85.947501,1.2,9:00,22:00,2,12.91,25.82
-117,Jagannath Enterprises,"Khata No 365/1923, Plot No 861, opposite to Chanakya Public School, Malipada, Bhubaneswar, Odisha 751003, India",clothing,20.245025,85.805553,3.8,9:00,22:00,9,10.73,96.57
-118,Go Colors Store - Shaeed Nagar,"PLOT NO. B/54, JANPATH, in front of RD WOMENS COLLEGE, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.316284,85.914154,5.0,9:00,23:00,70,4.04,181.8
-119,KING'S WHOLESALE,"26, Puri Rd, Gangotri Nagar, Bhubaneswar, Odisha 751002, India",clothing,20.246024,85.766913,4.1,8:00,22:00,19,5.19,98.61
-120,Lords Aesthetic,"B:10, Ruchika Market, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",clothing,20.257405,85.900958,2.3,10:00,23:00,9,10.24,92.16
-121,"Label Saaz Designer Studio in Bhubaneswar : Party Wear & Bridal Lehenga | Designer Dresses, Gown, Kurtis, Crop Top, & More","Plot Not 361, 3rd Floor Anuj Times Square Rupali Square, Janpath Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.315062,85.905526,2.0,9:00,22:00,10,12.03,120.3
-122,"Anahita Matching Center - Women's Designer Blouses, Women's undergarments, Nighties","Shop no- BE-12, basement, BMC Keshari Mall, Market building, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.361321,85.79172,3.5,9:00,21:00,11,5.96,65.56
-123,GRACE STUDIO,"Plot-18A, Ln 5, near laxmi mandap, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.373045,85.756183,1.6,10:00,21:00,1,10.72,10.72
-124,Gulab Matching Centre,"Plot No. 60, Unit - 3, Janpath Rd, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.336744,85.856876,3.1,9:00,23:00,18,6.98,125.64
-125,BRAND DESTINATION,"govt hospital, Plot No:289, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.275733,85.939368,4.1,8:00,21:00,49,2.73,133.77
-126,Label Lopamudra Design Studio & Boutique,"1st Floor, near Tanishq Showroom, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",clothing,20.212488,85.881822,4.1,9:00,22:00,26,5.58,145.08
-127,Laxmi Saree World,"Address: Plot No 1577 (A 2nd Floor, Pandara, Mancheswar, Bhubaneswar, Odisha 751017, India",clothing,20.24271,85.845903,4.6,8:00,21:00,19,6.04,114.76
-128,Confetti Fashions (Designer Boutique),"Magnetic Square, near Confetti Fashions (Premium Garment Rentals, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.278676,85.83796,1.0,10:00,20:00,6,10.73,64.38
-129,FASHION & FASHION,"Mahalakshmi Vihar, Lane Number 6, near ayurvedic research centre, Durga Madhab Nagar, Bharatpur, Bhubaneswar, Odisha 751029, India",clothing,20.390013,85.786702,1.6,8:00,23:00,3,10.28,30.84
-130,VAN HEUSEN STORE,"Plot No- 391, 2172, Patia Rd, opposite KOEL Campus, Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",clothing,20.287807,85.863278,1.2,10:00,22:00,7,11.55,80.85
-131,Press chowk,"8R7G+PJV, MCL Rd, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",clothing,20.226996,85.889555,3.3,8:00,23:00,17,7.85,133.45
-132,DIRA Artisanal Clothing,"A, 9, Mancheswar IE Rd, near Box Shop, Sector A, Mancheswar Industrial Estate, Bhubaneswar, Odisha 751010, India",clothing,20.380582,85.835904,4.1,8:00,20:00,26,6.94,180.44
-133,Louis Philippe Exclusive,"Ground Floor, Utkal Kanika Galleria Mall, Gautam Nagar St, near Kalpana Square, opposite Odisha State Museum, Bhubaneswar, Odisha 751014, India",clothing,20.399177,85.945567,3.8,9:00,22:00,10,14.93,149.3
-134,Being Human Clothing,"DN Regalia Mall, Shop No - UG 001, Upper Ground Floor Service Road, South Tamando, DN Square, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.388402,85.841704,2.1,8:00,21:00,9,11.48,103.32
-135,Allen Solly Women's Esplanade Mall,"Esplanade One Ln, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.214767,85.754358,4.8,8:00,23:00,45,4.85,218.25
-136,TRENDS WOMAN,"Upper ground floor, D N Regalia Mall, Service Rd S, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.246474,85.809474,4.4,8:00,20:00,35,4.1,143.5
-137,Adyasha Matching Center,"7R7M+WFQ, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.382317,85.918217,2.0,8:00,21:00,2,14.08,28.16
-138,Croma - Janpath Road,"Plot No 1230 & 1231, Janpath Rd, near Saheed Nagar, Bhoinagar, Bhubaneswar, Odisha 751022, India",electronic,20.284145,85.938727,2.0,10:00,21:00,6,10.82,64.92
-139,Reliance Digital,"LG1, 5, 6A, Forum, 6B & 7, Esplanade One Ln, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",electronic,20.270952,85.858103,1.3,10:00,22:00,10,11.87,118.7
-140,Croma - Patia,"A190, Patia Square, beside Big Wings Honda, Gayatri Vihar, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",electronic,20.223377,85.92152,3.1,8:00,21:00,13,7.36,95.68
-141,Indian Hobby Center,"Plot No 2296, Naibedya Complex, Doordarshan Colony, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",electronic,20.393248,85.794976,4.9,10:00,21:00,31,6.28,182.12
-142,"Sagarika Electronics, BBSR Electronics Robotics & Aero Modlling","bus stop, Plot No.- M5/7 Infront of Acharya vihar-Jayadev vihar junction, Bhubaneswar, Odisha 751022, India",electronic,20.273376,85.862669,3.3,9:00,23:00,13,8.26,107.38
-143,Reliance Digital,"Khata No 474/576, Gr & 1st Floor, PN 437, Patia Rd, near Nandankanan Road, Patia, Bhubaneswar, Odisha 751024, India",electronic,20.269247,85.76728,3.8,9:00,21:00,7,10.64,74.48
-144,Reliance Digital Xpress Mini,"610, Meghdoot St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.230977,85.92289,2.0,10:00,20:00,10,11.67,116.7
-145,Electronic World,"Taj Palace, Besides Hotel, Plot Number 149, Ln 11, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",electronic,20.232859,85.792699,2.4,8:00,23:00,8,12.32,98.56
-146,Croma - Bhubaneswar-Lewis Road,"Ground Floor Lewis road, Puri Rd, near Rajarani Temple, Rajarani Colony, Bhubaneswar, Odisha 751002, India",electronic,20.24749,85.924133,1.9,9:00,21:00,3,12.59,37.77
-147,P. K. Electronic's,"Indradhanu Market, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",electronic,20.375394,85.840245,1.7,8:00,20:00,6,11.26,67.56
-148,RPS Cooling Solution,"Shop no. S/20,Krishna Towers, Block -A, NH 5, Nayapalli, Bhubaneswar, Odisha 751012, India",electronic,20.21323,85.875896,3.4,9:00,21:00,9,12.95,116.55
-149,Archana Enterprises,"12, Janpath Rd, beside Patra Electoronics, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",electronic,20.356902,85.807952,2.8,9:00,23:00,7,10.56,73.92
-150,Kalinga Electrical & Refrigeration,"Plot No-540, Bhimatangi Rd, Bhimatangi Housing Colony, Bhubaneswar, Odisha 751002, India",electronic,20.367572,85.884047,1.9,10:00,22:00,9,10.71,96.39
-151,Reliance Digital,"Ground & 1st, Floor Survey, Plot No 9, Unit No 1, 356, Janpath Rd, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",electronic,20.208518,85.82718,1.3,9:00,20:00,7,12.21,85.47
-152,Dynamic Solution,"Plot No. A-144, Ground Floor, Sparsh Hospital Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.224438,85.879531,3.9,10:00,21:00,17,7.26,123.42
-153,Sneha electrical & electronic,"Jagamara, Khandagiri, Bhubaneswar, Odisha 751030, India",electronic,20.354548,85.904281,3.7,10:00,22:00,10,11.13,111.3
-154,Top Line Electronic,"217/218, Indradhanu Market, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",electronic,20.351279,85.909507,3.2,9:00,20:00,11,6.14,67.54
-155,RELIANCE RESQ,"PLOT NO - 1590 GOSAGARESWARCHHAK, Rath Rd, Old Town, PUN, 751002, India",electronic,20.295444,85.936196,1.4,9:00,21:00,7,12.75,89.25
-156,Lapcare Authorised Service Centre,"Plot No 740, 1st Floor, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.23116,85.897049,4.6,8:00,23:00,50,4.19,209.5
-157,TVS Electronics Ltd-Digital System,"Plot No. 629, Infront Of Indoor Hall, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.203642,85.828137,3.7,9:00,23:00,11,6.94,76.34
-158,Techspark Technologies,"Jagannath Road, Lane 5, Sai Vihar Main Rd, Bhubaneswar, Odisha 751010, India",electronic,20.370673,85.841975,4.9,10:00,23:00,49,2.61,127.89
-159,BPUT UNIVERSITY,"Giet college baniatangi, Doordarshan Colony, bajpur, Bhubaneswar, Odisha 752060, India",electronic,20.27929,85.879735,3.8,10:00,20:00,17,8.81,149.77
-160,Radherukmani Enterprises,"Duplex No-1, Brundaban Garden, opposite of Bank Of India, Samantarapur, Chakk, Bhubaneswar, Odisha 751002, India",electronic,20.23493,85.898964,4.1,9:00,20:00,10,12.3,123.0
-161,Samanta Electronic,"Puri, CTC Rd, Laxmisagar, Bhubaneswar, Odisha 751006, India",grocery,20.310577,85.798661,3.4,9:00,22:00,10,12.61,126.1
-162,Vishal Mega Mart,,grocery,20.356227,85.835121,3.3,9:00,22:00,10,12.99,129.9
-163,Maa Kochilei Market,,grocery,20.223364,85.770812,2.2,10:00,20:00,5,12.98,64.9
-164,Mukharuchi Namkeen Sweets,,grocery,20.239472,85.774398,1.2,9:00,21:00,9,14.38,129.42
-165,Reliance Smart Bazaar,,grocery,20.253036,85.891395,4.5,8:00,23:00,11,6.8,74.8
-166,"FRESH FROZEN MOUNT, Deba Agencies- Order online on EVEGRO",,grocery,20.380327,85.770276,3.9,9:00,21:00,19,8.01,152.19
-167,Mukhruchi Sweets And Namkeen,,grocery,20.315391,85.828013,1.5,8:00,20:00,1,10.45,10.45
-168,Reliance Signature,,grocery,20.382511,85.883202,2.2,9:00,21:00,3,12.34,37.02
-169,Fresh Signature,,grocery,20.309058,85.870868,4.8,8:00,22:00,39,4.53,176.67
-170,The Gangaram Mistanna Bhandar,,grocery,20.382981,85.938732,3.3,10:00,20:00,16,9.75,156.0
-171,"Reliance, Fresh Signature",,grocery,20.346221,85.903428,4.8,10:00,21:00,29,8.01,232.29
-172,OGS-MART,,grocery,20.263746,85.763411,4.6,9:00,21:00,31,4.27,132.37
-173,Bazaar Fresh - The Online Supermarket in Bhubaneswar,,grocery,20.339064,85.941669,3.1,8:00,23:00,9,10.26,92.34
-174,Reliance Smart Point,,grocery,20.358605,85.791038,1.7,8:00,21:00,7,10.54,73.78
-175,JBS MART,,grocery,20.258917,85.773777,3.7,9:00,21:00,13,6.98,90.74
-176,Uptown Mart,,grocery,20.383806,85.848438,3.5,10:00,22:00,9,12.71,114.39
-177,Odisha State Cooperative Society Super Bazaar,,grocery,20.380269,85.752915,1.6,8:00,20:00,2,11.14,22.28
-178,City Mart,,grocery,20.229005,85.914856,4.6,10:00,20:00,45,4.18,188.1
-179,Grocery Store,,grocery,20.285376,85.876644,4.7,9:00,20:00,31,3.68,114.08
-180,MartXYZ Super Market,,grocery,20.290892,85.752176,1.3,9:00,21:00,3,13.27,39.81
-181,Sanjeebani Grocery Store,,grocery,20.2138,85.81435,4.5,10:00,22:00,11,5.58,61.38
-182,Mahavir Hot N Sweet,,grocery,20.258195,85.763049,2.0,9:00,21:00,3,13.42,40.26
-183,SS Frozen World Patia,,grocery,20.33306,85.913489,1.8,8:00,23:00,5,12.23,61.15
-184,ANUPAMA MART,,grocery,20.389455,85.919117,3.9,8:00,20:00,7,14.54,101.78
-185,KERALA STORE BHUBANESWAR - Best kerala store in Bhubaneswar-JAANEES,,grocery,20.385581,85.761562,1.2,9:00,22:00,0,12.72,0.0
-186,Radhika Galaxy,,grocery,20.349883,85.792783,4.7,10:00,21:00,16,7.75,124.0
-187,Ananda Mega Mart,,grocery,20.239727,85.753805,3.0,8:00,23:00,19,7.45,141.55
-188,Maa Santoshi Bhandar,,grocery,20.223391,85.935054,1.7,9:00,20:00,3,14.86,44.58
-189,Chandaka Fresh,,grocery,20.25694,85.866472,4.0,9:00,22:00,32,4.29,137.28
-190,Chandaka Fresh,,grocery,20.318098,85.910374,4.7,10:00,22:00,11,5.05,55.55
-191,Manor Mart,,grocery,20.227258,85.775009,1.0,8:00,23:00,8,13.5,108.0
-192,Patanjali Store,,grocery,20.30267,85.874931,3.7,8:00,23:00,7,10.31,72.17
-193,MedKart 24,,grocery,20.369759,85.841076,3.6,9:00,22:00,15,9.77,146.55
-194,Kalinga Mart Grocery Store,,grocery,20.281142,85.801057,1.4,8:00,22:00,1,11.58,11.58
-195,GN GROUP Maa Sarada Store,,grocery,20.231288,85.795792,2.7,10:00,23:00,1,13.95,13.95
-196,Regional square,,grocery,20.362416,85.839691,4.9,9:00,21:00,30,8.29,248.7
-197,UNIQUE STORE,,grocery,20.259679,85.831278,3.6,8:00,20:00,11,5.52,60.72
-198,CROWN SUPERMARKET,,grocery,20.231552,85.882778,3.9,9:00,23:00,13,9.22,119.86
-199,Balaji Daily Needs,,grocery,20.358651,85.91796,4.8,8:00,20:00,40,3.24,129.6
-200,Hara Parbati Ganguram,,grocery,20.206816,85.778959,3.2,8:00,20:00,9,14.44,129.96
-201,City Choice,,grocery,20.23509,85.788274,1.2,10:00,23:00,5,13.23,66.15
-202,Abhisek Grocery Store,,grocery,20.382137,85.845766,2.1,10:00,20:00,3,14.42,43.26
-203,Bou Mart,,grocery,20.36365,85.944386,4.1,9:00,21:00,40,4.25,170.0
-204,BOU FRESH,,grocery,20.305202,85.877427,4.0,9:00,21:00,35,3.21,112.35
-205,Arati's Bakery Mart,,grocery,20.319769,85.775928,3.1,10:00,23:00,11,7.5,82.5
-206,Need On Wheels,,grocery,20.393854,85.82431,3.3,10:00,23:00,14,9.77,136.78
-207,Brahemeswaer market,,grocery,20.284414,85.835917,2.6,8:00,20:00,10,13.74,137.4
-208,Shraddha Food Mart,,grocery,20.243818,85.781376,4.3,9:00,23:00,34,2.77,94.18
-209,Chaudhry General Store,,grocery,20.356001,85.754645,3.8,9:00,22:00,16,6.2,99.2
-210,Moo Easy Supermart,,grocery,20.382999,85.88047,3.8,8:00,21:00,13,5.53,71.89
-211,BBS Grocery Store,,grocery,20.211313,85.808983,4.5,8:00,21:00,36,4.47,160.92
-212,STOP FOR SHOP,,grocery,20.218908,85.790211,1.1,9:00,20:00,4,12.83,51.32
-213,S P Super Mart,,grocery,20.314028,85.941668,3.7,8:00,23:00,20,5.68,113.6
-214,Modicare Distribution Point,,grocery,20.292962,85.786455,2.9,10:00,23:00,2,13.74,27.48
-215,The daily mart,,grocery,20.36551,85.861769,1.5,8:00,20:00,3,11.6,34.8
-216,Excel store,,grocery,20.304655,85.891576,2.0,8:00,21:00,9,13.35,120.15
-217,Nature's Basket,,grocery,20.371022,85.790813,3.0,10:00,23:00,19,8.86,168.34
-218,Super Grocery Bazaar,,grocery,20.32841,85.847193,3.3,9:00,20:00,8,11.27,90.16
-219,Prusty Grocery ( Your daily need),,grocery,20.341248,85.861706,4.8,10:00,22:00,19,5.56,105.64
-220,Anita Variety Store,,grocery,20.25491,85.892949,4.2,9:00,21:00,16,8.38,134.08
-221,YOURS' MART,,grocery,20.281117,85.791034,4.0,8:00,20:00,37,4.64,171.68
-222,Grocery,,grocery,20.288198,85.771738,3.8,10:00,22:00,5,12.59,62.95
-223,Food & Frozen Mart,,grocery,20.344746,85.773798,3.5,8:00,22:00,8,12.75,102.0
-224,Sharma Store,,grocery,20.35995,85.926238,3.2,10:00,20:00,16,8.08,129.28
-225,Super Mart,,grocery,20.222888,85.823947,4.2,8:00,23:00,39,4.88,190.32
-226,Jay Guru Sweets,,grocery,20.216199,85.822859,3.2,10:00,22:00,16,8.43,134.88
-227,Singh Variety Store,,grocery,20.318736,85.910191,4.1,10:00,23:00,28,7.32,204.96
-228,Madan Mohan Market Complex,,grocery,20.382881,85.882853,3.4,10:00,21:00,10,14.32,143.2
-229,Madan Grocery Store,,grocery,20.35708,85.890984,4.4,9:00,21:00,16,8.32,133.12
-230,Akshaya Omfed Parlour,,grocery,20.218567,85.830826,3.9,10:00,23:00,13,9.55,124.15
-231,SS THE MART,,grocery,20.283681,85.935798,3.2,9:00,20:00,13,8.59,111.67
-232,AS Metro bazzar (SUPER MARKET),,grocery,20.379402,85.778748,3.1,8:00,20:00,7,11.58,81.06
-233,Trinath Variety Store,,grocery,20.390096,85.845806,2.5,10:00,21:00,2,12.68,25.36
-234,Kamala's Stationery & Snacks,,grocery,20.232943,85.808748,3.8,9:00,22:00,15,9.55,143.25
-235,Smart Bazar,,grocery,20.29727,85.824056,3.3,9:00,22:00,18,9.58,172.44
-236,Puspa Provision Store,,grocery,20.380279,85.813148,4.8,8:00,23:00,12,6.17,74.04
-237,Barik Vegetable Shop,,grocery,20.257939,85.855232,4.4,10:00,23:00,46,2.84,130.64
-238,Manor Mart,,grocery,20.294843,85.844723,2.3,10:00,21:00,5,13.53,67.65
-239,Ama Dokan,,grocery,20.33629,85.775697,4.9,8:00,21:00,49,3.16,154.84
-240,Annapurna Itc,,grocery,20.395159,85.934783,4.7,8:00,21:00,44,2.24,98.56
-241,Lucky Store,,grocery,20.334173,85.864713,3.2,8:00,22:00,12,9.67,116.04
-242,JAGA BALIA STORE,,grocery,20.281568,85.776826,1.8,9:00,23:00,10,13.35,133.5
-243,Shree Laxmi Masala Store,,grocery,20.298745,85.874836,2.1,8:00,21:00,2,10.9,21.8
-244,Amit Grocery,,grocery,20.346092,85.778473,3.9,10:00,22:00,5,10.39,51.95
-245,Sahoo variety store,,grocery,20.200556,85.870891,4.8,8:00,21:00,31,4.25,131.75
-246,Cream Treat,,grocery,20.237534,85.844173,1.1,10:00,23:00,0,13.76,0.0
-247,Amit Grocery,,grocery,20.333206,85.8082,4.0,9:00,20:00,45,2.91,130.95
-248,Sneha Variety Store,,grocery,20.274976,85.900187,1.9,8:00,22:00,6,14.93,89.58
-249,AGMO SUPER MARKET,,grocery,20.287553,85.94098,1.5,8:00,21:00,10,11.2,112.0
-250,Bhai Bhai Store,,grocery,20.267881,85.785095,3.4,8:00,21:00,15,5.48,82.2
-251,SHIVA SAKTI MARKET COMPLEX,,grocery,20.376546,85.911736,1.4,9:00,21:00,3,12.92,38.76
-252,Maa Tarini Grocery Variety store,,grocery,20.30763,85.854126,4.5,9:00,22:00,29,7.09,205.61
-253,Kiyansh Mini Mart,,grocery,20.249422,85.876925,2.1,10:00,23:00,10,14.51,145.1
-254,Anil Communication,,grocery,20.377171,85.836923,3.2,9:00,23:00,18,9.87,177.66
-255,Maa Santoshi Variety Store,,grocery,20.274243,85.92426,3.9,9:00,22:00,13,6.28,81.64
-256,NK SUPERMART,,grocery,20.327736,85.897541,3.0,9:00,21:00,12,7.49,89.88
-257,ROUT GROCERY STORE,,grocery,20.31865,85.88436,1.3,9:00,22:00,3,14.99,44.97
-258,Jagannath Store,,grocery,20.384292,85.769329,3.4,8:00,20:00,19,8.45,160.55
-259,Dipu Grocery Store,,hospital,20.268595,85.84513,3.8,8:00,20:00,17,5.12,87.04
-260,Centre For Sight Group of Eye Hospitals | Bhubaneswar | Odisha,"239, N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751012, India",hospital,20.318974,85.751272,4.8,8:00,20:00,36,3.71,133.56
-261,Vivekanand Hospital Bhubaneswar,"A 54/1, Near Fire Station, Fire Station Square, Baramunda, Bhubaneswar, Odisha 751008, India",hospital,20.230708,85.859726,3.8,8:00,22:00,7,11.83,82.81
-262,Health Village Hospital,"15/1, Indradhanu Market, civic centre, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.277234,85.903658,4.3,9:00,23:00,36,4.07,146.52
-263,SUM Ultimate,"K8 Kalinga Nagar, Ghatikia, Bhubaneswar, Odisha 751003, India",hospital,20.284017,85.76591,3.2,9:00,20:00,12,7.14,85.68
-264,Kar Clinic & Hospital,"Unit 4 Area, A 32, Janpath Rd, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.395402,85.770654,3.3,8:00,20:00,6,14.38,86.28
-265,Usthi Hospital & Research Centre,"Plot No:-N4, 1/1, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.337185,85.81765,4.1,8:00,23:00,12,6.48,77.76
-266,UTKAL HOSPITAL,"Defence Colony Rd, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.362852,85.780025,4.5,10:00,22:00,17,7.09,120.53
-267,Kalinga Hospital Ltd.,"Maitri Vihar, NALCO Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751023, India",hospital,20.385715,85.885237,1.9,8:00,22:00,4,11.22,44.88
-268,Sunshine Hospital,"371, Puri - Cuttack Rd, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006, India",hospital,20.303733,85.860878,4.3,10:00,20:00,38,3.16,120.08
-269,Dr Agarwals Eye Hospital,"2nd Floor, BMC Bhawani Mall, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.295432,85.824239,3.7,10:00,23:00,17,8.32,141.44
-270,Kar Vision Eye Hospital,"Infront of, Bus Stop, 10, Janpath Rd, Satya Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.315535,85.792412,4.0,10:00,22:00,39,4.4,171.6
-271,Ankura Hospital for Women & Children - Bhubaneswar,"near Sisubhavan Bus Stop, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",hospital,20.335523,85.862083,1.1,9:00,21:00,1,14.59,14.59
-272,SUM Hospital,"K8 Kalinga Nagar, Kalinganagar, Bhubaneswar, Odisha 751003, India",hospital,20.333467,85.944261,3.8,10:00,21:00,12,5.99,71.88
-273,Neelachal Hospital Pvt Ltd,"A/84, near Chandrama Apartment, OFDC Colony, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.334075,85.949131,3.3,8:00,20:00,8,11.14,89.12
-274,Trinity Neuro Hospital & Trauma Centre,"304, Bhol Nagar, Vani Vihar, behind Dcp Office, Square, Bhubaneswar, Odisha 751022, India",hospital,20.354465,85.91859,2.1,10:00,23:00,5,13.73,68.65
-275,IGKC Multispecialty Hospital,"Plot No:- G1-43/1695, 7QF7+HMX, Ghatikia, KH-443, Ghatikia Main Rd, Kalinganagar, Bhubaneswar, Odisha 751003, India",hospital,20.379271,85.929222,2.2,9:00,21:00,0,14.2,0.0
-276,ESI Hospital,"N2, Road, Block N3, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.265922,85.82367,3.3,10:00,20:00,13,7.23,93.99
-277,Jagannath Hospital,"185-P, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.331472,85.79273,3.4,8:00,22:00,20,7.17,143.4
-278,Santosh Physiotherapy & Rehabilitation Centre,"J3, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",hospital,20.292373,85.855523,2.5,10:00,20:00,2,14.69,29.38
-279,Aditya Ashwini Hospital,"Plot 329, 8RJG+539, Kalyan Mandap, 1929, Sri Arbindonagar Rd, near BMC, Sri Aurobindo Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",hospital,20.227952,85.871867,3.2,8:00,20:00,17,9.15,155.55
-280,Sai Bone & Joint Clinic,"PLOT NO : 7849, Lane 3, near Sainik School Road, Laxmi Vihar, GATE, Bhubaneswar, Odisha 751005, India",hospital,20.220279,85.898726,4.9,8:00,21:00,22,7.07,155.54
-281,Nirvana Eye Hospital,"Plot no 435/6056, NH16, Aiginia, Khandagiri, Bhubaneswar, Odisha 751019, India",hospital,20.221653,85.896582,2.0,9:00,20:00,10,13.78,137.8
-282,Blue Wheel Hospital,"Sector A, Mancheswar Industrial Estate, Bhubaneswar, Odisha 751010, India",hospital,20.239226,85.80482,4.6,10:00,23:00,17,6.41,108.97
-283,L V Prasad Eye Institute,"Mithu Tulsi Chanrai Campus, Patia Rd, Bhubaneswar, Odisha 751024, India",hospital,20.359879,85.867633,3.7,10:00,22:00,17,5.85,99.45
-284,Maternity Care Hospital - Best Womens Hospital in Bhubaneswar,"A-142, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.390373,85.759602,3.1,10:00,20:00,14,8.09,113.26
-285,KIDS Hospital,"1120, Dumduma, Bhubaneswar, Odisha 751019, India",hospital,20.211749,85.777649,4.3,10:00,20:00,36,3.27,117.72
-286,RK VISION EYE CLINIC || a Super speciality eye hospital || Best eye Hospital in Bhubaneswar,"opposite BDA SAHID NAGAR park, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.22932,85.773125,4.4,10:00,23:00,32,2.79,89.28
-287,Dr. VINAYAK DIABETES CLINIC || Best Diabetes hospital in Bhubaneswar,"Plot no. 747, near BMC Bhawani Mall, park opposite, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.232188,85.816235,3.8,9:00,23:00,10,14.85,148.5
-288,Hi-Tech Hospital & Medical College,"Hi-Tech Hospital Road Pandra, Rasulgarh, Bhubaneswar, Odisha 751025, India",hospital,20.336093,85.765749,2.8,9:00,21:00,6,14.9,89.4
-289,Sushruta hospital and trauma care Pvt Ltd,"15 forest park, forest park road, near old airport square, Bhubaneswar, Odisha 751009, India",hospital,20.226835,85.84449,3.8,8:00,21:00,7,13.02,91.14
-290,Dr.Abhin Chandra Homoeopathic Medical College And Hospital,"7RFQ+HPX, Homeopathic College Rd, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.341173,85.791231,4.7,8:00,22:00,24,5.91,141.84
-291,CGHS Hospital,"near Durga Mandap, Old Ag Colony, AG Colony, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.219229,85.938436,3.4,9:00,21:00,13,6.21,80.73
-292,The CARE 32 multispeciality Dental Clinic,"Plot No. 170, Bayababa Math Lane, Unit-IX, Flat, Vani Vihar, Bhubaneswar, Odisha 751022, India",hospital,20.268824,85.7814,2.8,8:00,23:00,0,11.75,0.0
-293,Vision Care Eye Hospital,"24P, behind Maharishi College Road, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.376165,85.753746,5.0,10:00,22:00,36,2.79,100.44
-294,Unit 8 UPHC,"Unit 8, Gopabandhu Nagar, Bhubaneswar, Odisha 751008, India",hospital,20.274842,85.833922,3.2,10:00,23:00,15,6.55,98.25
-295,ANANYA HOSPITAL,"1802, Badagada Canal Rd, Post, BJB Nagar, Bhubaneswar, Odisha 751014, India",hospital,20.260461,85.875667,3.5,8:00,22:00,20,7.0,140.0
-296,ANVI ENT AND HEAD NECK HOSPITAL,"Plot 73, Lane 14, Sector-5, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.268054,85.779181,3.8,10:00,23:00,20,9.71,194.2
-297,Divine Super Speciality Clinic,"Plot No-1184/3296, Lane Number 1, behind Mangala mandir, Jagamara, Bhubaneswar, Odisha 751030, India",hospital,20.278607,85.807455,3.0,8:00,21:00,11,8.29,91.19
-298,Maa Shakti Hospital,"Plot No 168, Unit, 6, Ekamra Rd, near PGIMER & Capital Hospital Bhubaneswar, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.317702,85.81625,4.8,9:00,22:00,38,3.24,123.12
-299,ENT Khageswar & Laser ENT Clinic,"HIG Duplex - 50, Saileshreevihar chak, near Tarini Temple, Saileshreevihar, Bhubaneswar, Odisha 751021, India",hospital,20.22886,85.855865,4.6,10:00,22:00,16,7.95,127.2
-300,Mudita Super Speciality Care,"HIG 39, opposite Pal heights, BDA Colony, Doordarshan Colony, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",hospital,20.202784,85.894541,3.6,8:00,22:00,16,6.64,106.24
-301,Astang Ayurveda Hospital :: Ayurvedic Hospital in Bhubaneswar,"Phase-1, Plot No: MIG-43, BDA Colony, Pokhariput, Bhubaneswar, Odisha 751020, India",hospital,20.351316,85.881411,2.1,10:00,22:00,4,10.3,41.2
-302,DRKURE Smart Multi Speciality Clinic,"Plot No 718, Cuttack Rd, Rasulgarh Industrial Estate, Bomikhal, Rasulgarh, Bhubaneswar, Odisha 751010, India",hospital,20.250456,85.854377,3.8,8:00,20:00,10,13.01,130.1
-303,Spandan Hospital,"7RM5+X9W, CRP - DAV Rd, near Banadurga Enterprise, Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751011, India",hospital,20.305916,85.802785,3.7,9:00,21:00,5,10.83,54.15
-304,Rajbaidya Ayurveda ;; Ayurvedic Clinic in bhubaneswar II odisha II India,"Plot 3445/12281, Flyover, beside Palasuni, Palasuni, Bhubaneswar, Odisha 751010, India",hospital,20.364092,85.858411,2.8,10:00,21:00,5,13.41,67.05
-305,Advanced Eyecare Hospital,"A22, NH16, Ruchika Market, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",hospital,20.288279,85.892266,1.7,9:00,23:00,5,14.85,74.25
-306,Rahat Hospitals: Centre for Women and Child Care | Best Gynecologist in Bhubaneswar,"Plot 349, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.219633,85.831412,2.2,10:00,20:00,10,12.64,126.4
-307,Sara Gastro & Laparoscopic Hospital,"C21, BJB Nagar, Bhubaneswar, Odisha 751014, India",hospital,20.341659,85.877391,2.6,10:00,23:00,0,12.33,0.0
-308,THE SPINE CLINIC,"A/32, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.294775,85.935801,4.9,9:00,22:00,17,8.56,145.52
-309,Central Hospital East Coast Railway,"8RCP+F64, Mancheswar Station Rd, Mancheswar, Bhubaneswar, Odisha 751017, India",hospital,20.31085,85.891453,4.2,9:00,20:00,13,8.28,107.64
-310,Sanjeevani Medicare Hospital,"Lewis Rd, Samantarapur, Old Town, Bhubaneswar, Odisha 751002, India",hospital,20.338102,85.772744,4.4,10:00,22:00,11,9.55,105.05
-311,Padma Hospital,"210/1320, Netaji Subhas Road, near State Bank Of Patiala, Sarala Nagar, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006, India",hospital,20.23269,85.925693,3.5,10:00,20:00,7,13.97,97.79
-312,Satyam Hospital,"N, 5-121, Jayadev Vihar-Ekamra Kanana Rd, Block N5, IRC Village, Nayapalli, Bhubaneswar, Odisha 751013, India",hospital,20.234298,85.899494,4.6,10:00,23:00,25,9.23,230.75
-313,HILLSIDE NURSING HOME,"92-Dumuduma, Khandagiri Square, Bhubaneswar, Odisha 751030, India",hospital,20.307783,85.766911,5.0,10:00,20:00,50,4.23,211.5
-314,Institute of Medical Sciences and Sum Hospital,"Ground Floor, Sum Hospital Rd, Shampur, Bhubaneswar, Odisha 751003, India",hospital,20.316962,85.933119,1.7,10:00,21:00,9,12.04,108.36
-315,Composite Hospital ..CRPF.. BBSR,"7RQ3+MPC, CRPF Colony, IRC Village, Nayapalli, Bhubaneswar, Odisha 751011, India",hospital,20.292179,85.809881,3.9,10:00,22:00,10,12.0,120.0
-316,NAMAH Hospital,"Labour Colony, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.353529,85.896457,3.5,8:00,21:00,6,12.91,77.46
-317,Pradyumna Bal Memorial Hospital,"KIIT University, Chandaka Industrial Estate, Patia, Bhubaneswar, Odisha 751024, India",hospital,20.243453,85.928549,3.0,8:00,23:00,18,6.39,115.02
-318,ASSURE HOSPITAL,"Plot no 1369, Khandagiribari, Khandagiri, Bhubaneswar, Odisha 751030, India",hospital,20.318602,85.921546,4.0,9:00,20:00,32,4.57,146.24
-319,Dr. Kanhu Charan Das | Best Gastroenterologist Near Me | 23+ yrs of Exp | Stomach Specialist | Liver Specialist,"Plot No. 251, Apollo Hospitals, Bhubaneswar, Sainik School Rd, Doordarshan Colony, Unit 15, Bhubaneswar, Odisha 751005, India",hospital,20.210818,85.925639,5.0,8:00,22:00,39,3.44,134.16
-320,"Regional Govt. Hospital, Unit-VIII","7RG5+844, Unit 8, Gopabandhu Nagar, Bhubaneswar, Odisha 751008, India",hospital,20.25139,85.900836,4.2,9:00,21:00,50,3.54,177.0
-321,Adoreasia Hospital.Pvt. Ltd,"Iskcon Temple, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.285936,85.843868,2.4,9:00,20:00,7,13.06,91.42
-322,Aastha Hospital | Health care service | Opd | Icu | Ambulance | Medical Emergency | Diabetic Gastro Hospital | Pathology,"Plot no. 1203/3622, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003, India",hospital,20.201619,85.806823,3.7,10:00,23:00,14,6.77,94.78
-323,Apollo Hospital EMERGENCY WARD 24x7,"8R4J+4J4, Apollo Hospital, Doordarshan Marg, Doordarshan Colony, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",hospital,20.374587,85.904739,3.6,9:00,20:00,13,6.8,88.4
-324,"SPARSH HOSPITAL, KANTABADA","In Front Of TSL Spring City Kantabada, Bhubaneswar, Odisha 752054, India",hospital,20.244048,85.925137,1.4,9:00,22:00,4,13.23,52.92
-325,Dr.K.N Panda(Gastro & Liver clinic),"Khandagiri, Shankarpur, Odisha 751030, India",hospital,20.226704,85.761678,4.9,8:00,22:00,17,5.36,91.12
-326,Practo Care Surgeries,"N2, No, 19, N2, Block N2, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.281499,85.845726,3.6,8:00,20:00,17,9.39,159.63
-327,Best General practitioner - Dr. Manoj with more than 52+ Years of Experience | Apollo Hospitals | Bhubaneswar,"Plot No. 251, Sainik School Rd, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005, India",hospital,20.285928,85.841231,4.9,10:00,21:00,48,2.01,96.48
-328,Women and Child Care Hospital,"309, Kailash Vihar, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.34248,85.881536,4.3,10:00,21:00,14,7.02,98.28
-329,Medcare Hospital & Research Center,"PP-76, Lane-3, Tankapani Road, Pandav Nagar, Bhubaneswar, Odisha 751018, India",hospital,20.383053,85.866086,2.3,10:00,21:00,0,10.6,0.0
-330,Bhoomika Eye Hospital,"Plot No-1, Forest Park Rd, Forest Park, Bhubaneswar, Odisha 751009, India",hospital,20.248775,85.840649,3.1,8:00,23:00,14,8.09,113.26
-331,Sai Optical & Eye Clinic,"Shree Krishna Market Complex, near IIIT Square, Gothapatna, Bhubaneswar, Odisha 751003, India",hospital,20.356739,85.787071,1.2,8:00,21:00,5,12.93,64.65
-332,Dr Jagamohan Mishra Urologist in Bhubaneswar | Andrologist | Uro-Oncologist Surgeon I Asst Prof. IMS & SUM Hospital,"Room No. 14, Kar Clinic and Hospital, near Akash Institute, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.364505,85.853509,1.1,8:00,23:00,0,14.5,0.0
-333,Shuddhi Hiims (Bhubaneswar) Ayurveda Clinic,"Petrol Pump, opp. Infront Of Young Phoenix Public School, beside Genx Pharma, Nuagaon, Lingipur, Bhubaneswar, Odisha 751002, India",hospital,20.246899,85.820622,1.8,8:00,20:00,8,10.89,87.12
-334,Dr bharat Panigrahi residence,"N-3/114, N3, Block N3, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.28309,85.913623,4.0,8:00,23:00,16,5.02,80.32
-335,Sri Sri Borda Hospital,"Badada PVT Hospital, Lewis Rd, near Maa Tarini Temple, Dhauli, Lingipur, Bhubaneswar, Odisha 751002, India",hospital,20.360093,85.757532,2.4,10:00,21:00,9,10.3,92.7
-336,Amrit Health And Research Centre,"Plot no: L/529, Phase-2, Dumduma, Housing Board Rd, colony, Bhubaneswar, Odisha 751019, India",hospital,20.302193,85.796845,3.6,10:00,22:00,5,14.06,70.3
-337,Apex hospital and Maternity Centre,"905, High School Rd, Millennium Colony, High School Rd, Millennium Colony, Baramunda, Bhubaneswar, Odisha 751003, India",hospital,20.202252,85.759337,4.2,9:00,20:00,16,6.51,104.16
-338,NEAR KALINGA HOSPITAL,"Doordarshan Colony, Nayapalli, Bhubaneswar, Odisha 751013, India",hospital,20.236396,85.908921,1.3,10:00,22:00,1,14.85,14.85
-339,Baidyanath Memorial Hospital,"Phase 1, Pani Tanki, 457 9(P), Nagar, Patia Rd, near Patia, Kanan Vihar, Bhubaneswar, Odisha 751024, India",hospital,20.38786,85.768715,2.3,9:00,21:00,10,14.15,141.5
-340,Ananta Jyot Eye Hospital,"Sachivalaya Marg EW, Samanta Vihar, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",hospital,20.200253,85.948896,3.6,8:00,23:00,8,12.07,96.56
-341,Nilachal Polyclinic & Diagnostics. SRL diagnostics Authorized,"Plot No - 567 Behera Sahi Chowk, Beherasahi, Nayapalli, Bhubaneswar, Odisha 751012, India",hospital,20.38643,85.86073,4.6,9:00,23:00,46,2.8,128.8
-342,AMRI HOSPITAL EMPLOYEES UNION OFFICE,"751030, Sri Satyasai Enclave, Khandagiri, Bhubaneswar, Odisha 751030, India",hospital,20.261935,85.875764,3.5,8:00,23:00,5,11.14,55.7
-343,Anatomy Department AIIMS Bhubaneswar,"All India Institute Of Medical Sciences, Dumduma, Sijua, Patrapada, Bhubaneswar, Odisha 751013, India",hospital,20.213941,85.905908,1.5,9:00,20:00,4,10.26,41.04
-344,Loyola Hospital,"HIG-488, K5, Kalinga Vihar LIG, Bhubaneswar, Odisha 751019, India",hospital,20.251189,85.929669,1.8,10:00,20:00,9,14.76,132.84
-345,Janani Hospital,"Plot No 120/2457, Lingipur Chowk, near IndianOil, Lingipur, Bhubaneswar, Odisha 751002, India",hospital,20.221609,85.809626,4.0,10:00,21:00,23,7.95,182.85
-346,Maxfort Hospital Bhubaneswar,"infront of, police station, 37, Gayatri Vihar, Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",hospital,20.288174,85.936733,5.0,8:00,23:00,26,7.36,191.36
-347,Sum Hospital 24?7 Emergency Ward,"7QMC+C4V, Sum Hospital Rd, Shampur, Bhubaneswar, Odisha 751003, India",hospital,20.30137,85.931603,4.1,10:00,23:00,17,6.41,108.97
-348,VIKASH HOSPITAL BHUBANESWAR,"No -4659, Sai Residency Plot, 6251/7986, Tankapani Rd, Badagada Brit Colony, Baragarh, Bhubaneswar, Odisha 751018, India",hospital,20.318177,85.913572,1.2,8:00,20:00,6,11.21,67.26
-349,Hospi Home's Baidyanath Hospital- Geriatric Multi Specialty Hospital,"457 9, Pani Tanki, Phase 1, P), Nagar, Patia Rd, near Patia, Kanan Vihar, Bhubaneswar, Odisha 751024, India",hospital,20.314327,85.825672,4.0,8:00,21:00,22,8.13,178.86
-350,Governor House Hospital,"751008, Raj Bhavan Colony, Bhubaneswar, Odisha 751008, India",hospital,20.296431,85.907583,3.9,9:00,23:00,16,8.07,129.12
-351,Bhubaneswar Super speciality Clinic,"Lane 1, Laxmi Vihar, Vani Vihar, Bhubaneswar, Odisha 751005, India",hospital,20.359689,85.933731,2.3,8:00,20:00,8,13.79,110.32
-352,Health Point Hospital,"Healthpoint Hospital, 307/A, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751016",hospital,20.25275,85.799869,4.3,9:00,20:00,28,8.6,240.8
-353,"Eye Department, Capital Hospital.","7R6C+2VG, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",hospital,20.20089,85.822746,4.6,8:00,20:00,25,9.96,249.0
-354,Dr. Dibya Singha (Best Orthopedic Surgeon in Bhubaneswar) Utkal Hospital,"Cabin No-11, Utkal Hospital Rd, Defence Colony, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.297866,85.815482,3.3,9:00,20:00,12,9.8,117.6
-355,Sanjeevani panchakarma center and piles clinic,"Plot no 1922, Canal Rd, Dayanandnagar, Bomikhal, Rasulgarh, Bhubaneswar, Odisha 751010, India",hospital,20.228348,85.89373,4.2,8:00,20:00,31,2.49,77.19
-356,Obg & Gynaec Dept IMS & SUM HOSPITAL,"7QM9+8HP, Shampur, Bhubaneswar, Odisha 751003, India",hospital,20.254549,85.886497,3.6,8:00,22:00,16,6.44,103.04
-357,Paediatric Unit Capital Hospital,"7R6C+CQX, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",hospital,20.377695,85.867119,3.6,8:00,23:00,18,6.47,116.46
-358,ESI Hospital EMERGENCY GATE,"8R2C+7CQ, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",hospital,20.247345,85.944597,4.5,10:00,20:00,26,8.15,211.9
-359,Institute Of Gastro & Kidney Care Hospital,"Kalinganagar, Bhubaneswar, Odisha 751003, India",hospital,20.312361,85.811988,3.1,10:00,22:00,10,12.65,126.5
-360,Nice Pork Meat Shop,"Creative Homes, Baramunda, Bhubaneswar, Odisha 751030, India",meat,20.260527,85.855557,2.9,8:00,22:00,4,13.96,55.84
-361,4 nos Mutton Shop,"Unit 4 Market, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.303842,85.87456,3.9,10:00,20:00,20,8.25,165.0
-362,Mama Chicken Counter- Order online on EVEGRO,"Odisha, 7VV9 3JW, GGP Colony, Rasulgarh, Bhubaneswar, Odisha 751010, India",meat,20.213826,85.75443,4.1,10:00,22:00,36,2.75,99.0
-363,Odisha meat-online meat delivery,"Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",meat,20.331666,85.892525,4.0,9:00,23:00,27,6.57,177.39
-364,Odisha meat- online meat home delivery in Bhubaneswar,"INSTITUTE OF HOTEL MANAGEMENT, VSS Nagar Rd, VSS Nagar, Bhubaneswar, Odisha 751007, India",meat,20.297788,85.941932,4.2,9:00,21:00,12,7.85,94.2
-365,Bula Bhai Mutton Shop,"7R78+4RX, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",meat,20.285118,85.84215,4.7,10:00,22:00,43,4.56,196.08
-366,Hira Mutton Shop(Riyaz Bhai)- Order online on EVEGRO,"Kalinganagar, Bhubaneswar, Odisha 751003, India",meat,20.328133,85.943871,3.4,10:00,23:00,7,12.59,88.13
-367,OPOLFED Chicken Fresh- Order online from EVEGRO,"7RPW+774, Maharishi College Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",meat,20.206668,85.805887,4.9,10:00,22:00,22,9.39,206.58
-368,My FRESH PLANET,"Lewis Road, Ravi Talkies Rd, Campus, Bhubaneswar, Odisha 751002, India",meat,20.263055,85.862664,3.3,9:00,21:00,7,11.06,77.42
-369,CHICKEN SHOP TITU THE NON-VEG WORLD- Order online on EVEGRO,"Rasulgarh, Lane, E Canal Rd, Brahmeswarpatna, Bhubaneswar, Odisha 751010, India",meat,20.301434,85.88451,4.0,9:00,21:00,28,8.87,248.36
-370,Rajdhani Broilers- Order online on EVEGRO,"Rama Devi College Rd, OPTCL Colony, UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.323744,85.944441,4.2,9:00,23:00,34,2.17,73.78
-371,Anish Fish and Chicken,"7RX6+RJG, Janata Nagar, Salia Sahi, Bhubaneswar, Odisha 751013, India",meat,20.24319,85.778673,3.6,8:00,21:00,14,9.02,126.28
-372,Haji Liyakat's Mutton Shop,"8 Mansakata Gali, Cuttack Rd, Bhubaneswar, Odisha 751006, India",meat,20.233203,85.865555,3.1,9:00,23:00,5,11.87,59.35
-373,Eastern Hatchery Pvt Ltd,"Plot No. 1450, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",meat,20.263169,85.797113,2.3,9:00,22:00,5,13.5,67.5
-374,Capital Broilers,"61, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",meat,20.34868,85.895316,3.1,9:00,20:00,12,9.62,115.44
-375,Mutton Shop,"Plot no - 310, Bhimpur, Ganga Nagar, Bhubaneswar, Odisha 751020, India",meat,20.288962,85.869087,4.3,10:00,23:00,30,6.29,188.7
-376,Monoroma Foodies,"vending zone- 32&33, XIMB Square, Maitri Vihar, Rail Vihar, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",meat,20.278931,85.917223,2.9,8:00,22:00,3,11.05,33.15
-377,Quicku,"Plot No-207, Phase 4, Panchasakha Nagar, Dumduma, Bhubaneswar, Odisha 751019, India",meat,20.385803,85.872562,3.7,9:00,23:00,14,9.31,130.34
-378,"Manoj Chicken, Damana","16, S.S. Vihar Road, Phase II, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",meat,20.242822,85.769774,2.1,10:00,20:00,5,11.31,56.55
-379,EVEGRO,"SV- 46, Sambit Villa, Ghatikia, Bhubaneswar, Odisha 751003, India",meat,20.203324,85.811674,1.0,10:00,20:00,9,14.91,134.19
-380,Bhubaneswar Broiler- Order online on EVEGRO,"UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.214518,85.860776,2.6,9:00,23:00,0,11.8,0.0
-381,Munna mutton centre,"131/E, H.B Colony, Punjabi Colony, Satya Nagar, Bhubaneswar, Odisha 751007, India",meat,20.259997,85.767306,4.4,9:00,22:00,33,2.51,82.83
-382,Budhia chicken centre,"P.D.Market, CRP - DAV Rd, Gopabandhu Nagar, Bhubaneswar, Odisha 751012, India",meat,20.24382,85.907939,5.0,9:00,21:00,48,4.96,218.24
-383,CAPITAL BROILERS,"Plot no 16, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751030, India",meat,20.389822,85.877989,2.6,9:00,20:00,5,11.84,59.2
-384,Kookudu Chicken Wholesale and Retail,"8V4R+Q59, Balianta, Bhubaneswar, Odisha 752101, India",meat,20.299241,85.809342,5.0,8:00,21:00,27,5.24,141.48
-385,Mustafa Mutton Shop- Order online from EVEGRO,"Maa Kali daily market, Niladri Vihar Rd, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751023, India",meat,20.36431,85.942584,3.9,8:00,20:00,5,13.03,65.15
-386,SAHID mutton shop,"7RPP+P96, Baya Baba Matha Rd, UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.350205,85.901988,3.2,8:00,20:00,20,6.94,138.8
-387,Ayub mutton shop- Order online from EVEGRO,"shop No-6 & 7, Jai kishan Market unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",meat,20.292406,85.850662,3.2,9:00,22:00,10,12.69,126.9
-388,SK Meat Bhubaneswar,"SHOP NO, OG-396, Unit 4 Market, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.394517,85.775589,4.2,9:00,23:00,24,9.35,224.4
-389,Jumma Mutton Shop- Order online from EVEGRO,"125, Niladri Vihar Rd, HIG Colony, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.284435,85.798663,3.2,8:00,23:00,20,5.84,116.8
-390,MEAT MORE,"Phase-2, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",meat,20.290029,85.917752,1.2,9:00,22:00,4,13.61,54.44
-391,Murad mutton shop,"Unit 4 Market, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.366471,85.766529,2.3,10:00,22:00,2,13.7,27.4
-392,MIR MUTTON CENTRE,"7RHJ+9VG, Masjid Rd, AG Colony, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.283028,85.933089,3.4,8:00,20:00,14,7.23,101.22
-393,Kansei Khana (Chicken & Mutton shop),"1st Floor, Plot No 69/3989, Jharapada Canal Rd, Laxmisagar, Bhubaneswar, Odisha 751006, India",meat,20.313536,85.832958,1.1,10:00,23:00,9,14.16,127.44
-394,Mukul Non Veg World- Order online from EVEGRO,"Vss Nagar To Mancheswar Station Rd, DL Colony, Laxmi Nagar, Bhubaneswar, Odisha 751007, India",meat,20.267066,85.909546,4.7,8:00,23:00,50,2.83,141.5
-395,ODSHOP-Online Supermarket in Bhubaneswar,"Aiginia, Shreekhetra Vihar, Khandagiri, Bhubaneswar, Odisha 751019, India",meat,20.247323,85.865322,5.0,10:00,20:00,47,5.29,137.54
-396,Crucnchy Munchie,"7R4W+WMG, Kalpana Square, Laxmisagar, Bhubaneswar, Odisha 751006, India",meat,20.394964,85.883349,2.4,10:00,23:00,0,10.14,0.0
-397,Haji Muntaj Ali Khan(Kala Mutton Shop),"Plot No=718, Near, Venus Inn St, Sweets, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",meat,20.285901,85.789725,3.6,9:00,20:00,13,7.03,91.39
-398,Punama gata old town,"Poonama Gate Flyover, Bhimatangi Housing Colony, Bhubaneswar, Odisha 751002, India",meat,20.304284,85.937697,4.8,9:00,22:00,42,3.93,165.06
-399,Khan Chicken Centre,"7R33+QXW, Jagmohan Nagar, Bhubaneswar, Odisha 751030, India",meat,20.339362,85.924701,4.5,9:00,23:00,24,8.8,211.2
-400,Habib Mutton,"8RJH+JHW, Mahima Mandir Rd, Damana, Chandrasekharpur, Bhubaneswar, Odisha 751017, India",meat,20.297465,85.906696,2.3,8:00,21:00,2,14.47,28.94
-401,Altaf mutton shop,"7RCW+XGP, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",meat,20.336541,85.87579,2.1,10:00,21:00,2,11.9,23.8
-402,Chickni fastfood,"8RC6+VQ2, Lumbini Vihar Rd, Lumbini Vihar, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.266659,85.862446,4.4,9:00,23:00,31,3.52,109.12
-403,Lipu chicken counter,"K4, Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019, India",meat,20.252707,85.885935,2.5,9:00,22:00,9,11.03,99.27
-404,Mangu Mutton Center- Order online on EVEGRO,"151, Niladri Vihar Rd, Prachi Enclave, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",meat,20.27166,85.909442,4.1,9:00,21:00,28,8.29,232.12
-405,AZAD CHICKEN CENTER,"8RG3+9C2, Ishaneswar Temple Rd, Sector-5, Lumbini Vihar, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.37165,85.847258,3.1,8:00,22:00,17,7.77,132.09
-406,Bhubhaneswar,"172, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",meat,20.313588,85.943258,3.9,8:00,22:00,19,10.0,190.0
-407,I love Badagada,"7R3X+7V9, Badagada Brit Colony, Pandav Nagar, Bhubaneswar, Odisha 751018, India",meat,20.237291,85.828418,3.9,10:00,22:00,9,11.2,100.8
-408,Rasidul Molla,"Railway Station, near Hotel Exilency, Master Canteen Area, Ashok Nagar, Bhubaneswar, Odisha 751009, India",meat,20.2437,85.775466,3.4,9:00,20:00,16,5.31,84.96
-409,Mutton cutting centre,"327/2100, Mancheswar Railway Station Rd, Chandrasekharpur, Bhubaneswar, Odisha 751017, India",meat,20.318743,85.928091,3.4,9:00,22:00,20,5.34,106.8
-410,Tikka Banmalipur Mutton,"8RG7+6JC, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.354232,85.911258,4.4,10:00,23:00,26,9.93,258.18
-411,Gadakan tala sahi,"8RJP+5MX, Gadeswar, Bhubaneswar, Odisha 7510 Arpita sahoo17, India",meat,20.391121,85.817639,4.0,10:00,23:00,16,9.2,147.2
-412,Sanvi's champaran ahuna mutton,"8RP8+RV8, Phase-VII, Rangeswar Nagar, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",meat,20.321869,85.881568,3.1,9:00,22:00,20,7.21,144.2
+1,Moon saloon&spa,"Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751012, India",beauty,20.2810854476708,85.8188259038139,4.8,10:00:00,22:00:00,33,7.99,215.73
+2,The Grand 11 Spa & Saloon,"Unit 3, Plot no 20 unit, back side of BDA office, above Priyadarshini Handlooms, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",beauty,20.2763561900289,85.8353059536928,1.4,08:00:00,22:00:00,6,14.54,87.24
+3,CLEMOND FAMILY SALOON,"Ruchika Nursing Home, Ruchika Market, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",beauty,20.2776285183941,85.7941939066251,3.1,08:00:00,20:00:00,14,6.56,91.84
+4,SAMRAT SALOON,"Khandagiri, Bhubaneswar, Odisha 751030, India",beauty,20.2789962212049,85.782852215305,4.8,10:00:00,20:00:00,26,6.17,135.74
+5,Snip Saloon,"Shop No 02, chandrasekharpur Acharyavihar Rd, near Kali Mandir, Gajapati Nagar, Bhubaneswar, Odisha 751017, India",beauty,20.3166806457457,85.8268726287402,4.3,08:00:00,20:00:00,16,5.68,90.88
+6,SUN MOON EXCLUSIVE SALOON AND SPA,"Nila apartment, B O, 751007, I coluney, Satya Nagar, Bhubaneswar, Odisha 751007, India",beauty,20.2801773575544,85.8476280153099,4.8,09:00:00,20:00:00,42,3.93,161.13
+7,Maa Saloon,"7Q3M+CW6, near Kolathia Bus Staop, Shreekhetra Vihar, Khandagiri, Bhubaneswar, Odisha 751019, India",beauty,20.2870723459082,85.8267612999694,1.6,08:00:00,20:00:00,6,14.93,89.58
+8,Uday Hairline Saloon,"Patrapada Rd Bhagbanpur, Plot -230, Kalinga Vihar, Bhagawanpur, Bhubaneswar, Odisha 751019, India",beauty,20.2359076657688,85.7621824896524,3.1,10:00:00,23:00:00,6,11.29,67.74
+9,Angels Spa & Saloon,"7RWM+J3M, Acharya Vihar Traffic Square, NH16, beside Cookies, Bhubaneswar, Odisha 751013, India",beauty,20.296919705334,85.8331064822176,2.3,09:00:00,22:00:00,9,10.91,98.19
+10,One Dream Saloon,"7QJV+PJ6, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",beauty,20.2819193908817,85.7944945264092,4.5,09:00:00,21:00:00,25,7.34,183.5
+11,FRIEND'S SALOON Gents n kids,"Vendizone back side, Phase II, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",beauty,20.3354558638238,85.811475685566,3.2,09:00:00,20:00:00,9,14.87,133.83
+12,Ashish Hair Cutting Saloon,"A-224 Ispat, Market St, Unit 8, Gopabandhu Nagar, Bhubaneswar, Odisha 751003, India",beauty,20.2782212775344,85.8114640822338,4.6,08:00:00,20:00:00,47,3.57,167.79
+13,Looks Saloon And Spa,"N 3, Block N3, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",beauty,20.2781912233091,85.8445511458203,2.7,09:00:00,22:00:00,8,14.78,118.24
+14,Royal Hair Saloon And Parlour,"front side, Kedar Gouri Vihar, Old Town, Bhubaneswar, Odisha 751002, India",beauty,20.2418437884272,85.841818956582,4.8,09:00:00,21:00:00,16,7.43,118.88
+15,Wild flower unisex saloon and spa,"2nd Floor, BMC Bhawani Mall, Saheednagar Block-A, Bhubaneswar, Odisha 751007, India",beauty,20.2871712431299,85.8483557857043,3.8,09:00:00,22:00:00,13,7.79,101.27
+16,Santoshi Saloon,"7VXC+R8M, Nuasahi, Rasulgarh, Bhubaneswar, Odisha 751010, India",beauty,20.2998014744806,85.8718289970483,3.2,10:00:00,20:00:00,12,5.41,64.92
+17,Aviglam Unisex Saloon,"6VV4+H3Q, Tankapani Rd, Brahmeswarpatna, Bhubaneswar, Odisha 751018, India",beauty,20.2441553895301,85.8563423988911,3.1,10:00:00,21:00:00,7,11.93,83.51
+18,BJ 'S Hair Trendz The Saloon,"Plot No.655/1562, NH-5, Tamando, Tamando Bazar, Patrapada, Bhubaneswar, Odisha 752054, India",beauty,20.2376591980522,85.7521070356744,4.8,08:00:00,23:00:00,38,4.42,167.96
+19,Unique Beauty Saloon,"Lane No -2, Road Number 16, Samantarapur, Mahaveer Nagar, Bhubaneswar, Odisha 751002, India",beauty,20.2259076108107,85.845582095192,3.5,10:00:00,21:00:00,14,5.54,77.56
+20,Saloon,"7RF4+J5P, Krushi Bihar Colony, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751008, India",beauty,20.2927244181251,85.8436559687402,3.5,09:00:00,21:00:00,8,10.82,86.56
+21,Manoj Saloon,"N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",beauty,20.2930186324809,85.8142741166214,3.7,09:00:00,21:00:00,7,13.5,94.5
+22,New Haircut Muna Saloon,"Maitrivihar, in front of NEW, LIC Colony, Bhubaneswar, Odisha 751023, India",beauty,20.3140074539398,85.8146642589376,4.9,10:00:00,20:00:00,32,4.94,158.08
+23,Saloon,"7R6Q+544, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",beauty,20.3507915056842,85.8267051203076,3.9,10:00:00,20:00:00,11,6.22,68.42
+24,ANGEL RASMI SMART SALOON,"Puri - Cuttack Rd, in front of Gugnani Honda service centre, Chintamaniswar, chack, Bhubaneswar, Odisha 751006, India",beauty,20.2630450783083,85.8459195491641,4.9,08:00:00,20:00:00,12,11.53,115.3
+25,Sangram Saloon,"7RX6+MWX, Saliasahi Rd, Nayapalli, Bhubaneswar, Odisha 751012, India",beauty,20.2994449499746,85.8128513975842,3.2,09:00:00,23:00:00,11,8.13,89.43
+26,ATTITUDE Saloon,"Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003, India",beauty,20.2716185566715,85.8031445267203,1.4,08:00:00,21:00:00,2,13.16,26.32
+27,Rose Saloon & Spa,"infront of, Chintamaniswar temple road, 2nd Ln, Laxmisagar, Bhubaneswar, Odisha 751001, India",beauty,20.261475579525,85.8499443951953,4.8,10:00:00,21:00:00,27,8.33,224.91
+28,Nirankar Hair Saloon,"Balianta to SH 60, Balianta, Bhubanpur, Bhubaneswar, Odisha 752101, India",beauty,20.3009588725301,85.9020151496481,1.3,08:00:00,20:00:00,4,11.93,47.72
+29,Newstar Gents Saloon,"Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003",beauty,20.2717165287625,85.8042447872516,4.9,09:00:00,23:00:00,40,4.02,128.64
+30,Papu saloon,"Ganesh Mandir Rd, Bharatpur, Bhubaneswar, Odisha 751003, India",beauty,20.2997221746943,85.7806244515394,4.3,10:00:00,21:00:00,13,7.96,103.48
+31,MR saloon,"8RM5+PV8, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",beauty,20.3344286431191,85.8101187245648,3.8,09:00:00,21:00:00,11,9.34,102.74
+32,Clear Touch Saloon & Spa,"Ratnakar Bagh, Brahmeswarpatna, Bhubaneswar, Odisha 751002, India",beauty,20.241529695035,85.8479907319655,1.1,10:00:00,23:00:00,4,12.44,49.76
+33,OMM MAA BATA MANGALA SALOON & PARLOUR,"6QRH+83J, AIIMS Rd, Patrapada, Bhubaneswar, Odisha 751019, India",beauty,20.2410149932,85.7785509798415,3.4,10:00:00,22:00:00,17,9.77,166.09
+34,Omm Sai Saloon,"Sector A, Rasulgarh, Bhubaneswar, Odisha 751007, India",beauty,20.3018419805878,85.8733289568892,2.8,08:00:00,22:00:00,9,11.2,100.8
+35,Krishna Saloon And Spa,"Infront Of Royal Garden, Patia, Bhubaneswar, Odisha 751017, India",beauty,20.3453958306965,85.8339586951928,3.7,08:00:00,23:00:00,8,14.92,119.36
+36,ARYAN SALOON,"Gridco Colony, Bhoinagar, Bhubaneswar, Odisha 751022, India",beauty,20.2951275555832,85.8419102049782,4.1,10:00:00,22:00:00,41,2.88,118.08
+37,MAA SANTOSHI HAIR CUTTING SALOON,"6RVR+RQM, Tankapani Rd, Shiva Nagar, Kedar Gouri Vihar, Ratnakar Bagh, Brahmeswarpatna, Bhubaneswar, Odisha 751018, India",beauty,20.2448255850454,85.8424503417586,4.9,10:00:00,20:00:00,42,2.96,115.44
+38,"Pantaloons (Saheed Nagar, Bhubaneswar)","Plot No A/B, Janpath Rd, nearby Indian Oil Petrol Pump, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2941590912282,85.843775343081,2.6,08:00:00,23:00:00,3,14.44,43.32
+39,Westside,"lot No. 2, Rev Plot No. 726, Khata No. 310, Unit No. 10 Mouza, Satya Nagar, Bhubaneswar, Odisha 751003, India",clothing,20.2812818188242,85.8445393920223,3.8,08:00:00,20:00:00,16,9.85,157.6
+40,Narula Cloth House Textiles,"Western market, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751019, India",clothing,20.2653259001069,85.8340917049828,4.1,10:00:00,21:00:00,26,5.02,130.52
+41,Jockey Exclusive Store,"N4/237, Indradhanu Market Rd, N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",clothing,20.2711716866832,85.8502062724416,4.6,10:00:00,20:00:00,40,2.07,82.8
+42,Blackberrys,"Plot No 361, Anuj Time Square, Rupali St, Janpath, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2904492739146,85.8472186418431,1.3,08:00:00,22:00:00,8,10.59,84.72
+43,Odissy Enterprises A Complete Uniforms Center,"Plot No- 730(P), Opp_ NABARD, Near Kasturaba School,, State Bank Beherasahi Road, Nayapalli, Bhubaneswar, Odisha 751012, India",clothing,20.2906168460615,85.8192734737751,4.5,10:00:00,20:00:00,27,8.77,236.79
+44,The Raymond shop,"364, Janpath Rd, near Malabar Gold, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2912709439624,85.8557193289978,4.6,10:00:00,20:00:00,21,8.45,177.45
+45,Lifestyle Stores,"Unit No, 32 & 721, Esplanade One Ln, Mall, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.2936860507557,85.8605258474375,4.6,10:00:00,23:00:00,34,2.58,87.72
+46,Manyavar,"364, Janpath Rd, near Reliance Trends, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2869106330927,85.8445222970462,3.1,09:00:00,23:00:00,15,5.72,85.8
+47,Zudio - RUPALI SQUARE bhubaneswar,"Number No- 360, Vavi Grand GA Plot, 360, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2896172101761,85.8445844338271,3.6,09:00:00,20:00:00,13,6.63,86.19
+48,"Zudio, Lewis Road","Panthanivas, Lewis Rd, Bhubaneswar, Odisha 751014, India",clothing,20.2506834222543,85.8419309203281,3.7,08:00:00,23:00:00,10,13.49,134.9
+49,Sridurga - A family cloth store,"253/2579 NH-16, Service Rd S, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.2627406136607,85.8385396454719,4.2,08:00:00,23:00:00,15,7.78,116.7
+50,Geeta Fashions,"Market Building, BMC Keshari Mall, 2nd St, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2662434224044,85.8335025798521,3.3,09:00:00,21:00:00,18,7.17,129.06
+51,Manyavar,"721, SN F/133, 1st Floor, Esplanade One, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.2915316711961,85.85608129573,4.6,08:00:00,21:00:00,13,8.27,107.51
+52,Padma,"7R6Q+V87, 11th St, Ashok Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.2644312363269,85.8401563602964,4.0,08:00:00,22:00:00,37,3.35,123.95
+53,The Swayamvar,"Shop no 4 panda lifestyle, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2875208592518,85.8442518338166,4.8,10:00:00,23:00:00,45,3.82,171.9
+54,Rajratan - clothing store in Bhubaneswar,"Sriya Square 1, Janpath Rd, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2753512484103,85.844197416629,4.2,10:00:00,20:00:00,41,3.94,161.54
+55,Blackberrys,"Plot No 193, near Tata chroma, Gayatri Vihar, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.3433354946991,85.8259075577246,4.8,09:00:00,22:00:00,38,4.28,162.64
+56,TRENDS,"Near Garage Square Samantrapur Canara Bank Samantarapur Branch, Jagannath Sadak, Bhubaneswar, Odisha 751002, India",clothing,20.2572385715052,85.8882853368958,4.9,10:00:00,20:00:00,47,4.68,173.16
+57,Queen's Collection Ex ( Saheed Nagar ),"2nd floor, 242, Janpath Rd, above H&M store, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2879783913735,85.8444117240334,4.6,08:00:00,22:00:00,27,6.83,184.41
+58,Jhilimili Textile pvt ltd,"363, Swagata hotel, lane, Bhubaneswar, Odisha 751006, India",clothing,20.2622861490704,85.8427489822186,2.6,10:00:00,22:00:00,8,14.89,119.12
+59,Cotton King,"150, Raj Path, near Gangaram, Ashok Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.261765168987,85.8385706123987,4.6,10:00:00,23:00:00,12,5.62,67.44
+60,ODC HANDLOOM,"New, Jagamara Rd, BBSR, Jagamara, Bhubaneswar, Odisha 751030, India",clothing,20.2574983391985,85.7990115417606,1.2,10:00:00,23:00:00,1,11.56,11.56
+61,PRIYADARSHINI HANDLOOM,"Plot no-20, Unit, 3, behind BDA Office, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2763391799802,85.8363849817061,3.1,09:00:00,23:00:00,20,8.95,179.0
+62,Bazar India,"R.K Avenue, KIIT Road, beside Domino`s Pizza, Bhubaneswar, Odisha 751024, India",clothing,20.3534099258162,85.8249420166299,4.6,09:00:00,22:00:00,25,5.45,136.25
+63,SN's SIGNATURE COLLECTION,"Shop no 8, BDA Market Complex, in front of debaray college, Sabera Colony, Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751012, India",clothing,20.2824168269519,85.8162167320121,2.7,09:00:00,23:00:00,7,11.66,81.62
+64,"Fashion Paradise Boutique, Expert Stitching Services, Best fashion Design in Bhubaneswar, Wedding guest outfit","235/2258 At Venus Daily Mart, S.S. Vihar Road, Damana, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",clothing,20.3332583075573,85.8195125105416,3.5,10:00:00,23:00:00,8,14.3,114.4
+65,Manyavar & Mohey,"Plot No 372/4264, Rajkumar Agency, Main Rd, opposite Union Bank, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.3450919310686,85.825136283559,2.0,10:00:00,23:00:00,3,12.67,38.01
+66,Jockey Exclusive Store,"Shop No 258, Puri - Cuttack Rd, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006, India",clothing,20.2711213650187,85.8504208491584,3.6,09:00:00,21:00:00,5,13.58,67.9
+67,Manish Traders,"Bapuji Nagar, Chaudhuri, market, near union bank, Bhubaneswar, Odisha, India",clothing,20.256292048862,85.8342682221857,3.3,09:00:00,23:00:00,18,6.59,118.62
+68,Brand Hub,"8RP8+C66, Phase-VII, Rangeswar Nagar, Sailashree Vihar, 7, Bhubaneswar, Odisha 751021, India",clothing,20.3361767016346,85.8162169454701,3.9,10:00:00,20:00:00,18,5.21,93.78
+69,Fashion Point,"F3g-69,I.D.Market,IRC Village, Bhubaneswar, Odisha 751015, India",clothing,20.2936496442031,85.8154946193866,4.2,09:00:00,21:00:00,31,4.01,124.31
+70,Bata Shoe Store,"67, Kalpana Square, Laxmisagar, Bhubaneswar, Odisha 751006, India",clothing,20.2593141812076,85.842596447303,4.8,08:00:00,22:00:00,14,5.16,72.24
+71,Blackberrys,"Utkal Galleria Mall, SN FF/106 & 107, Gautam Nagar St, opposite Odisha State Museum, Kalpana Square, Bapuji Nagar, Bhubaneswar, Odisha 751014, India",clothing,20.256991535601,85.8397934227139,3.6,10:00:00,20:00:00,16,6.43,102.88
+72,Odisha Art Emporium,"54/A, opposite of The Royale Midtown Hotel, Ashok Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.2651677766561,85.8408407817091,1.2,10:00:00,20:00:00,9,14.98,134.82
+73,VAN HEUSEN,"1St and Ground Floor, Plot No 78, Janpath Rd, next to TVS Showroom, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2727438634615,85.8435512031263,3.7,08:00:00,21:00:00,8,13.87,110.96
+74,Go Colors,"2, Plot# 501, Janpath Rd, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2744463106994,85.8447200774902,3.1,09:00:00,21:00:00,19,8.93,169.67
+75,Mahesh Cloth Store | Uniform Store & Jockey Store in Bhubaneswar | Saree And Dress Material Shop in Bhubaneswar,"C/51, Sahid Nagar, Market Building, Infront Of BMC Bhawani Mall, Bhubaneswar, Odisha 751007, India",clothing,20.2917578734196,85.8556667291777,4.4,08:00:00,22:00:00,19,7.85,149.15
+76,TRENDS,"Esplanade one Mall,First Floor-24A/25/26 First Floor-24A, 25/26, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.2916213861633,85.8563423245666,3.1,09:00:00,20:00:00,10,11.03,110.3
+77,Geeta Saree House,"Shop No: (KC, Kalinga Complex, 6-11, Raj Path, in front of Market Building, Unit 1, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.2643709124975,85.8331416700677,3.3,10:00:00,20:00:00,11,8.74,96.14
+78,Amber,"Plot no. 1/2321, plot no. 2 and 3/2576, opp. Indian Oil Petrol Pump, Lingipur, Bhubaneswar, Odisha 754002, India",clothing,20.2254882265977,85.8497376334837,2.2,08:00:00,21:00:00,7,12.79,89.53
+79,BIBA,"2, 501, Janpath Rd, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2743880542532,85.8436405380533,3.1,09:00:00,22:00:00,7,13.2,92.4
+80,Blackberrys,"UG02 & UG003, Ground Floor, Khordha, DN Regalia Rd, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.2412570603545,85.7594066473087,3.1,09:00:00,21:00:00,16,7.32,117.12
+81,Jockey Exclusive Store,"Plot No. : 516/1675, opposite to BB-BHUBHANESHWAR- PATIA- MARUTI MALL, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.3544013606122,85.828200706828,4.1,08:00:00,22:00:00,23,5.08,116.84
+82,Pan America,"Unit - 2, BMC Keshari Mall, 43, 44, 45, Market Building, near Market Building, Bhubaneswar, Odisha 751009, India",clothing,20.2661369345428,85.83308417059,3.8,08:00:00,23:00:00,18,8.25,148.5
+83,AZAD TEXTILES,"5565, Lane Number 3, Gautam Nagar, Bhubaneswar, Odisha 751014, India",clothing,20.2546778464339,85.8369099031229,1.6,10:00:00,21:00:00,2,14.03,28.06
+84,Kalaniketan,"Shop No. 02, Near Rajdhani Petrol Pump, Market Building, Western Tower, Unit-2, Bhubaneswar, Odisha 751009, India",clothing,20.2646353951681,85.8346007031386,3.5,10:00:00,22:00:00,8,11.0,88.0
+85,TENSTAR SPORTS WEAR,"Ga 18, Bharatpur, Bhubaneswar, Odisha 751003, India",clothing,20.3005211171811,85.781732115045,3.8,09:00:00,22:00:00,6,13.61,81.66
+86,Kilol Bhubaneswar,"Devika Enterprises, 258/2306, behind Hotel Mayfair Convention, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",clothing,20.2996798996416,85.8209922621469,2.1,08:00:00,23:00:00,1,11.9,11.9
+87,THE FASHION STREET,"jagmara road ,malicik complex Line 6, opp. khadim store, Jagamara, Bhubaneswar, Odisha 751030, India",clothing,20.2583482232884,85.7999605338829,2.4,08:00:00,21:00:00,6,14.24,85.44
+88,Louis Philippe - Patia,"PN 421/19/2420,421, 2421 & 421/1617/2417, Nandan Kanan Rd, Bajrang Vihar, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.3474927658706,85.8258633517217,4.0,09:00:00,20:00:00,23,6.56,150.88
+89,Odisha Handloom Emporium,"22, Western Tower, Near Rajdhani Petrol Pump, Market Building, Unit 2, Bhubaneswar, Odisha 751009, India",clothing,20.2656774879164,85.834047239389,1.8,10:00:00,20:00:00,4,11.71,46.84
+90,Bunkaari India Weaving Handloom Fashion Store (Bhubaneswar),"Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751017, India",clothing,20.3460627176607,85.8260148148647,2.0,10:00:00,22:00:00,6,13.74,82.44
+91,Tribal World,"7RQR+MM4, IPICOL Rd, UNIT- 9, Bhubaneswar, Odisha 751022, India",clothing,20.2892926105133,85.8424576473194,1.8,09:00:00,21:00:00,4,13.49,53.96
+92,Jockey Preferred Store,"At, near Khimji Showroom, near Rupali Ganguram, Siripur, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003, India",clothing,20.2704648656793,85.8078437639783,2.7,10:00:00,20:00:00,0,14.24,0.0
+93,Lata Garments,"Savitri Tower, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2900798203561,85.8441839356718,4.8,10:00:00,21:00:00,26,9.43,245.18
+94,Pramila Cloth Store,"Shop No F3g-54, Indradhanu Market, Irc Village, Nayapalli, Indradhanu Market, Bhubaneswar, Odisha 751012, India",clothing,20.293734415769,85.8140420110307,3.2,08:00:00,21:00:00,20,7.62,152.4
+95,Labdh by Pallavi,"2nd floor, plot no 246, Lewis Rd, near shree hospital, BJB Nagar, Bhubaneswar, Odisha 751014, India",clothing,20.2485308931421,85.8430148630859,5.0,08:00:00,22:00:00,32,8.43,160.17
+96,"Maa Bastralaya, Plot no 77,Rasulgarh","Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.2985767393719,85.8628641305565,1.9,10:00:00,23:00:00,10,10.34,103.4
+97,INDIAN BRIDE,"Rath Rd, Barik Sahi, Old Town, Bhubaneswar, Odisha 751002, India",clothing,20.2507490984199,85.8366622030623,3.5,09:00:00,23:00:00,9,12.55,112.95
+98,Manish traders,"Manish Traders, Gouri Garden, Phase 2, Old Town, Bhubaneswar, Odisha 751002, India",clothing,20.2387771622498,85.8415614375281,4.4,09:00:00,21:00:00,19,8.14,154.66
+99,Lakshaya Enterprises,"867, Garage Chhak, Sriram Nagar, Old Town, Bhubaneswar, Odisha 751002, India",clothing,20.235941032242,85.8409584221823,2.0,09:00:00,20:00:00,8,11.32,90.56
+100,Denim House,"749, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.286858065162,85.8497018955378,4.6,10:00:00,23:00:00,11,8.56,94.16
+101,Monali Bastralaya,"6QXV+23G, Near Ram Mandir, Panchasakha Nagar, Dumduma, Bhubaneswar, Odisha 752019, India",clothing,20.2478221870564,85.7940755830099,3.5,09:00:00,21:00:00,14,8.76,122.64
+102,Mango Esplanade iconic,"Shop no: 24a, 25, Esplanade Forum Mall, 26, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.2909847152642,85.8575883416771,3.4,08:00:00,22:00:00,17,6.92,117.64
+103,"Allen Solly ( Men's wear ) - Rasulgarh Industrial Estate, Bhubaneswar","First floor 27 & 28, Allen Solly, Forum Esplanade, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751007, India",clothing,20.2920092265622,85.8565513933544,1.8,10:00:00,23:00:00,3,13.98,41.94
+104,Rashmi Collection,"7R7J+PRM, Unit - I, Kalinga Complex, Rajpath, Infront of Market Building, Bhubaneswar, Odisha 751009, India",clothing,20.2644748067405,85.8328660203263,1.1,10:00:00,23:00:00,5,14.25,71.25
+105,Trigger Jeans,"797, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2933719691704,85.8433709761519,2.7,08:00:00,21:00:00,0,14.24,0.0
+106,The Arvind Store,"Plot No, 625-A, Maharishi College Rd, below Adidas Showroom, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2859231407771,85.8445379682232,1.6,08:00:00,23:00:00,8,14.56,116.48
+107,Padmaja's Mantra,"BMC Bhawani Mall, 749, 2nd Street, near 751007, Unit-2, Saheed Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2867538598474,85.8499877909828,3.0,08:00:00,22:00:00,15,8.63,129.45
+108,Levi's Exclusive Store,"305, Industrial Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2782586303389,85.8458658301115,4.6,09:00:00,23:00:00,40,2.23,89.2
+109,Being Human Clothing,"Esplanade One ,Shop No.UG15,16,Rasulgarh,721, Bhubaneswar, Odisha, India",clothing,20.2914536864119,85.8569805258741,4.7,09:00:00,20:00:00,24,8.11,194.64
+110,Soch,"FF/1/10, FF1, 11, Esplanade One Ln, Mall 721, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.2912993496684,85.8572173793408,3.8,08:00:00,23:00:00,8,14.01,112.08
+111,Jockey Exclusive Store,"Plot 178E, near GOCOOL Caf? Indian Oil, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",clothing,20.3396435581401,85.8233151639889,2.2,08:00:00,21:00:00,0,11.23,0.0
+112,B. K. FASHION,"8RJ9+VGM, Housing Board Colony, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",clothing,20.332413578636,85.8201460003272,2.1,08:00:00,22:00:00,3,11.95,35.85
+113,Twills,"Bhagirathi Bhawan, Plot no. B/54, Janpath Rd, opposite Ramadevi Womens College, Saheed Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.2924248961388,85.8433837264249,3.3,10:00:00,22:00:00,9,12.91,116.19
+114,U.S. Polo Assn.,"Shop No C3, Inbox Blosaheed Nagar, BMC Bhawani Mall, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2868880964279,85.8479837645171,1.6,10:00:00,23:00:00,5,11.05,55.25
+115,Zodiac Retail Store,"B-61, Janpath Rd, Saheed Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2913505235257,85.844388216104,4.9,08:00:00,23:00:00,19,5.15,97.85
+116,Sew Lovely Boutique,"G2, 28, Indradhanu Market Rd, Indradhanu Market, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",clothing,20.2929507067083,85.8153279584262,1.2,09:00:00,22:00:00,2,12.91,25.82
+117,Jagannath Enterprises,"Khata No 365/1923, Plot No 861, opposite to Chanakya Public School, Malipada, Bhubaneswar, Odisha 751003, India",clothing,20.2846978883664,85.7535052676988,3.8,09:00:00,22:00:00,9,10.73,96.57
+118,Go Colors Store - Shaeed Nagar,"PLOT NO. B/54, JANPATH, in front of RD WOMENS COLLEGE, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2927308387249,85.8442592383501,5.0,09:00:00,23:00:00,45,4.04,181.8
+119,KING'S WHOLESALE,"26, Puri Rd, Gangotri Nagar, Bhubaneswar, Odisha 751002, India",clothing,20.2246479838124,85.8456215948329,4.1,08:00:00,22:00:00,19,5.19,98.61
+120,Lords Aesthetic,"B:10, Ruchika Market, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",clothing,20.2779103306398,85.7950631840882,2.3,10:00:00,23:00:00,9,10.24,92.16
+121,"Label Saaz Designer Studio in Bhubaneswar : Party Wear & Bridal Lehenga | Designer Dresses, Gown, Kurtis, Crop Top, & More","Plot Not 361, 3rd Floor Anuj Times Square Rupali Square, Janpath Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2716366076486,85.8385429682081,2.0,09:00:00,22:00:00,10,12.03,120.3
+122,"Anahita Matching Center - Women's Designer Blouses, Women's undergarments, Nighties","Shop no- BE-12, basement, BMC Keshari Mall, Market building, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.266115722589,85.8344288695495,3.5,09:00:00,21:00:00,11,5.96,65.56
+123,GRACE STUDIO,"Plot-18A, Ln 5, near laxmi mandap, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",clothing,20.2579527474632,85.8358574835718,1.6,10:00:00,21:00:00,1,10.72,10.72
+124,Gulab Matching Centre,"Plot No. 60, Unit - 3, Janpath Rd, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2712290292731,85.8429226301112,3.1,09:00:00,23:00:00,18,6.98,125.64
+125,BRAND DESTINATION,"govt hospital, Plot No:289, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",clothing,20.2911524194594,85.8510663658482,4.1,08:00:00,21:00:00,49,2.73,133.77
+126,Label Lopamudra Design Studio & Boutique,"1st Floor, near Tanishq Showroom, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",clothing,20.3240383616399,85.8224296528708,4.1,09:00:00,22:00:00,26,5.58,145.08
+127,Laxmi Saree World,"Address: Plot No 1577 (A 2nd Floor, Pandara, Mancheswar, Bhubaneswar, Odisha 751017, India",clothing,20.3077794109456,85.8712706295933,4.6,08:00:00,21:00:00,19,6.04,114.76
+128,Confetti Fashions (Designer Boutique),"Magnetic Square, near Confetti Fashions (Premium Garment Rentals, Patia, Bhubaneswar, Odisha 751024, India",clothing,20.3529436755204,85.8255618240394,1.0,10:00:00,20:00:00,6,10.73,64.38
+129,FASHION & FASHION,"Mahalakshmi Vihar, Lane Number 6, near ayurvedic research centre, Durga Madhab Nagar, Bharatpur, Bhubaneswar, Odisha 751029, India",clothing,20.2915173821659,85.7769258295964,1.6,08:00:00,23:00:00,3,10.28,30.84
+130,VAN HEUSEN STORE,"Plot No- 391, 2172, Patia Rd, opposite KOEL Campus, Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",clothing,20.3451558333408,85.8251899854124,1.2,10:00:00,22:00:00,7,11.55,80.85
+131,Press chowk,"8R7G+PJV, MCL Rd, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",clothing,20.3144043844066,85.8272289896499,3.3,08:00:00,23:00:00,17,7.85,133.45
+132,DIRA Artisanal Clothing,"A, 9, Mancheswar IE Rd, near Box Shop, Sector A, Mancheswar Industrial Estate, Bhubaneswar, Odisha 751010, India",clothing,20.2823618904889,85.8577404007464,4.1,08:00:00,20:00:00,26,6.94,180.44
+133,Louis Philippe Exclusive,"Ground Floor, Utkal Kanika Galleria Mall, Gautam Nagar St, near Kalpana Square, opposite Odisha State Museum, Bhubaneswar, Odisha 751014, India",clothing,20.2566167055692,85.8405656719183,3.8,09:00:00,22:00:00,10,14.93,149.3
+134,Being Human Clothing,"DN Regalia Mall, Shop No - UG 001, Upper Ground Floor Service Road, South Tamando, DN Square, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.2412751266196,85.759109579857,2.1,08:00:00,21:00:00,9,11.48,103.32
+135,Allen Solly Women's Esplanade Mall,"Esplanade One Ln, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",clothing,20.2916427861396,85.8570193375273,4.8,08:00:00,23:00:00,45,4.85,218.25
+136,TRENDS WOMAN,"Upper ground floor, D N Regalia Mall, Service Rd S, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019, India",clothing,20.2412190266797,85.7595506719165,4.4,08:00:00,20:00:00,35,4.1,143.5
+137,Adyasha Matching Center,"7R7M+WFQ, Unit-2, Ashok Nagar, Bhubaneswar, Odisha 751001, India",clothing,20.2650303946544,85.8349880737756,2.0,08:00:00,21:00:00,2,14.08,28.16
+138,Croma - Janpath Road,"Plot No 1230 & 1231, Janpath Rd, near Saheed Nagar, Bhoinagar, Bhubaneswar, Odisha 751022, India",electronic,20.2857290240372,85.8439759221833,2.0,10:00:00,21:00:00,6,10.82,64.92
+139,Reliance Digital,"LG1, 5, 6A, Forum, 6B & 7, Esplanade One Ln, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010, India",electronic,20.2916499560354,85.8570123933393,1.3,10:00:00,22:00:00,10,11.87,118.7
+140,Croma - Patia,"A190, Patia Square, beside Big Wings Honda, Gayatri Vihar, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",electronic,20.3428772431601,85.8235675162198,3.1,08:00:00,21:00:00,13,7.36,95.68
+141,Indian Hobby Center,"Plot No 2296, Naibedya Complex, Doordarshan Colony, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",electronic,20.2960430034984,85.825656357102,4.9,10:00:00,21:00:00,29,6.28,182.12
+142,"Sagarika Electronics, BBSR Electronics Robotics & Aero Modlling","bus stop, Plot No.- M5/7 Infront of Acharya vihar-Jayadev vihar junction, Bhubaneswar, Odisha 751022, India",electronic,20.2966860416214,85.8295820375242,3.3,09:00:00,23:00:00,13,8.26,107.38
+143,Reliance Digital,"Khata No 474/576, Gr & 1st Floor, PN 437, Patia Rd, near Nandankanan Road, Patia, Bhubaneswar, Odisha 751024, India",electronic,20.3511818461197,85.8259649166348,3.8,09:00:00,21:00:00,7,10.64,74.48
+144,Reliance Digital Xpress Mini,"610, Meghdoot St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.2944361049402,85.8143299860265,2.0,10:00:00,20:00:00,10,11.67,116.7
+145,Electronic World,"Taj Palace, Besides Hotel, Plot Number 149, Ln 11, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",electronic,20.259500681196,85.8382263737265,2.4,08:00:00,23:00:00,8,12.32,98.56
+146,Croma - Bhubaneswar-Lewis Road,"Ground Floor Lewis road, Puri Rd, near Rajarani Temple, Rajarani Colony, Bhubaneswar, Odisha 751002, India",electronic,20.238804664293,85.8418760859396,1.9,09:00:00,21:00:00,3,12.59,37.77
+147,P. K. Electronic's,"Indradhanu Market, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",electronic,20.2941169720825,85.8161770548753,1.7,08:00:00,20:00:00,6,11.26,67.56
+148,RPS Cooling Solution,"Shop no. S/20,Krishna Towers, Block -A, NH 5, Nayapalli, Bhubaneswar, Odisha 751012, India",electronic,20.2880021648413,85.814886781705,3.4,09:00:00,21:00:00,9,12.95,116.55
+149,Archana Enterprises,"12, Janpath Rd, beside Patra Electoronics, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",electronic,20.25692990937,85.8346822547257,2.8,09:00:00,23:00:00,7,10.56,73.92
+150,Kalinga Electrical & Refrigeration,"Plot No-540, Bhimatangi Rd, Bhimatangi Housing Colony, Bhubaneswar, Odisha 751002, India",electronic,20.2421400567783,85.8259630994313,1.9,10:00:00,22:00:00,9,10.71,96.39
+151,Reliance Digital,"Ground & 1st, Floor Survey, Plot No 9, Unit No 1, 356, Janpath Rd, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",electronic,20.256725274188,85.8341922539999,1.3,09:00:00,20:00:00,7,12.21,85.47
+152,Dynamic Solution,"Plot No. A-144, Ground Floor, Sparsh Hospital Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.2954244318157,85.8444333468038,3.9,10:00:00,21:00:00,17,7.26,123.42
+153,Sneha electrical & electronic,"Jagamara, Khandagiri, Bhubaneswar, Odisha 751030, India",electronic,20.2570053966356,85.7973721123956,3.7,10:00:00,22:00:00,10,11.13,111.3
+154,Top Line Electronic,"217/218, Indradhanu Market, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",electronic,20.2930420695345,85.8161958393766,3.2,09:00:00,20:00:00,11,6.14,67.54
+155,RELIANCE RESQ,"PLOT NO - 1590 GOSAGARESWARCHHAK, Rath Rd, Old Town, PUN, 751002, India",electronic,20.2848453516792,85.8493487780061,1.4,09:00:00,21:00:00,7,12.75,89.25
+156,Lapcare Authorised Service Centre,"Plot No 740, 1st Floor, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.2870362660963,85.8514643584241,4.6,08:00:00,23:00:00,50,4.19,209.5
+157,TVS Electronics Ltd-Digital System,"Plot No. 629, Infront Of Indoor Hall, Saheed Nagar, Bhubaneswar, Odisha 751007, India",electronic,20.2875703857547,85.8589060663714,3.7,09:00:00,23:00:00,11,6.94,76.34
+158,Techspark Technologies,"Jagannath Road, Lane 5, Sai Vihar Main Rd, Bhubaneswar, Odisha 751010, India",electronic,20.2851352782618,85.8643561988977,4.9,10:00:00,23:00:00,49,2.61,127.89
+159,BPUT UNIVERSITY,"Giet college baniatangi, Doordarshan Colony, bajpur, Bhubaneswar, Odisha 752060, India",electronic,20.2962121009244,85.8258785743416,3.8,10:00:00,20:00:00,17,8.81,149.77
+160,Radherukmani Enterprises,"Duplex No-1, Brundaban Garden, opposite of Bank Of India, Samantarapur, Chakk, Bhubaneswar, Odisha 751002, India",electronic,20.2310383734227,85.8421665510186,4.1,09:00:00,20:00:00,10,12.3,123.0
+161,Samanta Electronic,"Puri, CTC Rd, Laxmisagar, Bhubaneswar, Odisha 751006, India",grocery,20.2591663115512,85.8434758877926,3.4,09:00:00,22:00:00,10,12.61,126.1
+162,Vishal Mega Mart,,grocery,20.2989141630504,85.8627905375276,3.3,09:00:00,22:00:00,10,12.99,129.9
+163,Maa Kochilei Market,,grocery,20.2935757545215,85.857780764514,2.2,10:00:00,20:00:00,5,12.98,64.9
+164,Mukharuchi Namkeen Sweets,,grocery,20.2884117378641,85.8464336301177,1.2,09:00:00,21:00:00,9,14.38,129.42
+165,Reliance Smart Bazaar,,grocery,20.2898927775325,85.8162185864509,4.5,08:00:00,23:00:00,11,6.8,74.8
+166,"FRESH FROZEN MOUNT, Deba Agencies- Order online on EVEGRO",,grocery,20.280297529844,85.8356975123909,3.9,09:00:00,21:00:00,19,8.01,152.19
+167,Mukhruchi Sweets And Namkeen,,grocery,20.3348799640985,85.8228550203373,1.5,08:00:00,20:00:00,1,10.45,10.45
+168,Reliance Signature,,grocery,20.2777887059227,85.7972944295878,2.2,09:00:00,21:00:00,3,12.34,37.02
+169,Fresh Signature,,grocery,20.3260870330214,85.8196215528749,4.8,08:00:00,22:00:00,39,4.53,176.67
+170,The Gangaram Mistanna Bhandar,,grocery,20.2781953193626,85.832989685942,3.3,10:00:00,20:00:00,16,9.75,156.0
+171,"Reliance, Fresh Signature",,grocery,20.3086934665351,85.8718885375157,4.8,10:00:00,21:00:00,29,8.01,232.29
+172,OGS-MART,,grocery,20.2666377271185,85.7855695256218,4.6,09:00:00,21:00:00,31,4.27,132.37
+173,Bazaar Fresh - The Online Supermarket in Bhubaneswar,,grocery,20.2960151899076,85.8212672081766,3.1,08:00:00,23:00:00,9,10.26,92.34
+174,Reliance Smart Point,,grocery,20.2876011072434,85.8476501723999,1.7,08:00:00,21:00:00,7,10.54,73.78
+175,JBS MART,,grocery,20.2619033912539,85.8536981441301,3.7,09:00:00,21:00:00,13,6.98,90.74
+176,Uptown Mart,,grocery,20.2925715707975,85.8097916737889,3.5,10:00:00,22:00:00,9,12.71,114.39
+177,Odisha State Cooperative Society Super Bazaar,,grocery,20.291255615124,85.8462415951927,1.6,08:00:00,20:00:00,2,11.14,22.28
+178,City Mart,,grocery,20.2788249966413,85.7978353372413,4.6,10:00:00,20:00:00,45,4.18,188.1
+179,Grocery Store,,grocery,20.2924503690898,85.8004842010997,4.7,09:00:00,20:00:00,31,3.68,114.08
+180,MartXYZ Super Market,,grocery,20.3365285017572,85.810978263996,1.3,09:00:00,21:00:00,3,13.27,39.81
+181,Sanjeebani Grocery Store,,grocery,20.2792405506023,85.817012738863,4.5,10:00:00,22:00:00,11,5.58,61.38
+182,Mahavir Hot N Sweet,,grocery,20.3068061783877,85.8495616811914,2.0,09:00:00,21:00:00,3,13.42,40.26
+183,SS Frozen World Patia,,grocery,20.3462566890927,85.8258920658482,1.8,08:00:00,23:00:00,5,12.23,61.15
+184,ANUPAMA MART,,grocery,20.3188776996513,85.821479959978,3.9,08:00:00,20:00:00,7,14.54,101.78
+185,KERALA STORE BHUBANESWAR - Best kerala store in Bhubaneswar-JAANEES,,grocery,20.2563102671851,85.8252487221866,1.2,09:00:00,22:00:00,0,12.72,0.0
+186,Radhika Galaxy,,grocery,20.2772529475227,85.8607398564848,4.7,10:00:00,21:00:00,16,7.75,124.0
+187,Ananda Mega Mart,,grocery,20.3218896827857,85.8184586104301,3.0,08:00:00,23:00:00,19,7.45,141.55
+188,Maa Santoshi Bhandar,,grocery,20.2878042236197,85.7792596059725,1.7,09:00:00,20:00:00,3,14.86,44.58
+189,Chandaka Fresh,,grocery,20.26641588903,85.761849442517,4.0,09:00:00,22:00:00,32,4.29,137.28
+190,Chandaka Fresh,,grocery,20.2582173644553,85.7863877027033,4.7,10:00:00,22:00:00,11,5.05,55.55
+191,Manor Mart,,grocery,20.2494223176429,85.8421542049951,1.0,08:00:00,23:00:00,8,13.5,108.0
+192,Patanjali Store,,grocery,20.2620760179554,85.8387491547286,3.7,08:00:00,23:00:00,7,10.31,72.17
+193,MedKart 24,,grocery,20.3539290432544,85.8233207454678,3.6,09:00:00,22:00:00,15,9.77,146.55
+194,Kalinga Mart Grocery Store,,grocery,20.2508715537071,85.7559996403098,1.4,08:00:00,22:00:00,1,11.58,11.58
+195,GN GROUP Maa Sarada Store,,grocery,20.3344714812072,85.8078014431983,2.7,10:00:00,23:00:00,1,13.95,13.95
+196,Regional square,,grocery,20.2887270910407,85.8354469416584,4.9,09:00:00,21:00:00,30,8.29,248.7
+197,UNIQUE STORE,,grocery,20.2814673675896,85.7987534316744,3.6,08:00:00,20:00:00,11,5.52,60.72
+198,CROWN SUPERMARKET,,grocery,20.2706013724264,85.7602180589616,3.9,09:00:00,23:00:00,13,9.22,119.86
+199,Balaji Daily Needs,,grocery,20.2657160615411,85.8613574548753,4.8,08:00:00,20:00:00,40,3.24,129.6
+200,Hara Parbati Ganguram,,grocery,20.2538039782803,85.7840780124038,3.2,08:00:00,20:00:00,9,14.44,129.96
+201,City Choice,,grocery,20.2777749224693,85.8034699338235,1.2,10:00:00,23:00:00,5,13.23,66.15
+202,Abhisek Grocery Store,,grocery,20.289048339515,85.8473694676071,2.1,10:00:00,20:00:00,3,14.42,43.26
+203,Bou Mart,,grocery,20.2086795573226,85.7999107446518,4.1,09:00:00,21:00:00,40,4.25,170.0
+204,BOU FRESH,,grocery,20.2805986491236,85.8483864253762,4.0,09:00:00,21:00:00,35,3.21,112.35
+205,Arati's Bakery Mart,,grocery,20.2450647545086,85.8391598896291,3.1,10:00:00,23:00:00,11,7.5,82.5
+206,Need On Wheels,,grocery,20.2462454236962,85.8422408521074,3.3,10:00:00,23:00:00,14,9.77,136.78
+207,Brahemeswaer market,,grocery,20.2444072928061,85.8526390523556,2.6,08:00:00,20:00:00,10,13.74,137.4
+208,Shraddha Food Mart,,grocery,20.2152774989389,85.8545930398839,4.3,09:00:00,23:00:00,34,2.77,94.18
+209,Chaudhry General Store,,grocery,20.2662669575414,85.8236153438071,3.8,09:00:00,22:00:00,16,6.2,99.2
+210,Moo Easy Supermart,,grocery,20.3107868855087,85.835309087924,3.8,08:00:00,21:00:00,13,5.53,71.89
+211,BBS Grocery Store,,grocery,20.2751069995185,85.8464143030183,4.5,08:00:00,21:00:00,36,4.47,160.92
+212,STOP FOR SHOP,,grocery,20.2405764148455,85.7658661878789,1.1,09:00:00,20:00:00,4,12.83,51.32
+213,S P Super Mart,,grocery,20.2210257532318,85.8487552363198,3.7,08:00:00,23:00:00,20,5.68,113.6
+214,Modicare Distribution Point,,grocery,20.2586887113066,85.77815591671,2.9,10:00:00,23:00:00,2,13.74,27.48
+215,The daily mart,,grocery,20.3256412623939,85.8091633706698,1.5,08:00:00,20:00:00,3,11.6,34.8
+216,Excel store,,grocery,20.3366473029763,85.8109917235198,2.0,08:00:00,21:00:00,9,13.35,120.15
+217,Nature's Basket,,grocery,20.2582458123894,85.7966749319801,3.0,10:00:00,23:00:00,19,8.86,168.34
+218,Super Grocery Bazaar,,grocery,20.2757160522116,85.8139636860023,3.3,09:00:00,20:00:00,8,11.27,90.16
+219,Prusty Grocery ( Your daily need),,grocery,20.2815107042813,85.7974900014242,4.8,10:00:00,22:00:00,19,5.56,105.64
+220,Anita Variety Store,,grocery,20.2602543937222,85.7995449243846,4.2,09:00:00,21:00:00,16,8.38,134.08
+221,YOURS' MART,,grocery,20.3357655622331,85.8048527643104,4.0,08:00:00,20:00:00,37,4.64,171.68
+222,Grocery,,grocery,20.3434990734012,85.8080894608003,3.8,10:00:00,22:00:00,5,12.59,62.95
+223,Food & Frozen Mart,,grocery,20.2995543998497,85.8639792486544,3.5,08:00:00,22:00:00,8,12.75,102.0
+224,Sharma Store,,grocery,20.2660184227247,85.853260951546,3.2,10:00:00,20:00:00,16,8.08,129.28
+225,Super Mart,,grocery,20.3019722563662,85.8660156598057,4.2,08:00:00,23:00:00,39,4.88,190.32
+226,Jay Guru Sweets,,grocery,20.3015280361617,85.8390224368913,3.2,10:00:00,22:00:00,16,8.43,134.88
+227,Singh Variety Store,,grocery,20.2961135797536,85.8253545621469,4.1,10:00:00,23:00:00,28,7.32,204.96
+228,Madan Mohan Market Complex,,grocery,20.2366926389341,85.7608348364297,3.4,10:00:00,21:00:00,10,14.32,143.2
+229,Madan Grocery Store,,grocery,20.2661259285684,85.8232808928334,4.4,09:00:00,21:00:00,16,8.32,133.12
+230,Akshaya Omfed Parlour,,grocery,20.2688650476509,85.7859752658482,3.9,10:00:00,23:00:00,13,9.55,124.15
+231,SS THE MART,,grocery,20.2887651586217,85.8182490603071,3.2,09:00:00,20:00:00,13,8.59,111.67
+232,AS Metro bazzar (SUPER MARKET),,grocery,20.2828416993128,85.8622274914949,3.1,08:00:00,20:00:00,7,11.58,81.06
+233,Trinath Variety Store,,grocery,20.243079039587,85.7894362695173,2.5,10:00:00,21:00:00,2,12.68,25.36
+234,Kamala's Stationery & Snacks,,grocery,20.2815435915772,85.8567587486544,3.8,09:00:00,22:00:00,15,9.55,143.25
+235,Smart Bazar,,grocery,20.3016298353293,85.86535153198,3.3,09:00:00,22:00:00,18,9.58,172.44
+236,Puspa Provision Store,,grocery,20.2376800640653,85.7680860915003,4.8,08:00:00,23:00:00,12,6.17,74.04
+237,Barik Vegetable Shop,,grocery,20.2831971710797,85.7948556142508,4.4,10:00:00,23:00:00,46,2.84,130.64
+238,Manor Mart,,grocery,20.2402846603946,85.8055701044753,2.3,10:00:00,21:00:00,5,13.53,67.65
+239,Ama Dokan,,grocery,20.3277478995232,85.8097699384441,4.9,08:00:00,21:00:00,49,3.16,154.84
+240,Annapurna Itc,,grocery,20.3194715718122,85.8351530205258,4.7,08:00:00,21:00:00,44,2.24,98.56
+241,Lucky Store,,grocery,20.4736364690469,85.8862683800098,3.2,08:00:00,22:00:00,12,9.67,116.04
+242,JAGA BALIA STORE,,grocery,20.4392385712825,85.8299668719809,1.8,09:00:00,23:00:00,10,13.35,133.5
+243,Shree Laxmi Masala Store,,grocery,20.2637527709614,85.8334289737889,2.1,08:00:00,21:00:00,2,10.9,21.8
+244,Amit Grocery,,grocery,20.3536970779615,85.8246403691435,3.9,10:00:00,22:00:00,5,10.39,51.95
+245,Sahoo variety store,,grocery,20.3197874111071,85.8339559061834,4.8,08:00:00,21:00:00,31,4.25,131.75
+246,Cream Treat,,grocery,20.3330463924719,85.8162791833731,1.1,10:00:00,23:00:00,0,13.76,0.0
+247,Amit Grocery,,grocery,20.3537021102482,85.8250592686307,4.0,09:00:00,20:00:00,45,2.91,130.95
+248,Sneha Variety Store,,grocery,20.2829256504978,85.8242248417535,1.9,08:00:00,22:00:00,6,14.93,89.58
+249,AGMO SUPER MARKET,,grocery,20.2611157247708,85.7885895928334,1.5,08:00:00,21:00:00,10,11.2,112.0
+250,Bhai Bhai Store,,grocery,20.261768180887,85.847299738242,3.4,08:00:00,21:00:00,15,5.48,82.2
+251,SHIVA SAKTI MARKET COMPLEX,,grocery,20.2952882904091,85.8645497910502,1.4,09:00:00,21:00:00,3,12.92,38.76
+252,Maa Tarini Grocery Variety store,,grocery,20.2933709545373,85.8163652258708,4.5,09:00:00,22:00:00,29,7.09,205.61
+253,Kiyansh Mini Mart,,grocery,20.2873633322266,85.8283411811914,2.1,10:00:00,23:00:00,10,14.51,145.1
+254,Anil Communication,,grocery,20.2965870932836,85.8217963555603,3.2,09:00:00,23:00:00,18,9.87,177.66
+255,Maa Santoshi Variety Store,,grocery,20.2779632757031,85.8716449790338,3.9,09:00:00,22:00:00,13,6.28,81.64
+256,NK SUPERMART,,grocery,20.2939657971445,85.8713738468038,3.0,09:00:00,21:00:00,12,7.49,89.88
+257,ROUT GROCERY STORE,,grocery,20.2843720171119,85.7940496787581,1.3,09:00:00,22:00:00,3,14.99,44.97
+258,Jagannath Store,,grocery,20.2722643429546,85.8396322097439,3.4,08:00:00,20:00:00,19,8.45,160.55
+259,Dipu Grocery Store,,hospital,20.151309620272,85.7064750759451,3.8,08:00:00,20:00:00,17,5.12,87.04
+260,Centre For Sight Group of Eye Hospitals | Bhubaneswar | Odisha,"239, N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751012, India",hospital,20.2942884631088,85.8143400031251,4.8,08:00:00,20:00:00,36,3.71,133.56
+261,Vivekanand Hospital Bhubaneswar,"A 54/1, Near Fire Station, Fire Station Square, Baramunda, Bhubaneswar, Odisha 751008, India",hospital,20.2795406416923,85.8016014283828,3.8,08:00:00,22:00:00,7,11.83,82.81
+262,Health Village Hospital,"15/1, Indradhanu Market, civic centre, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.2951489512253,85.8160317208089,4.3,09:00:00,23:00:00,36,4.07,146.52
+263,SUM Ultimate,"K8 Kalinga Nagar, Ghatikia, Bhubaneswar, Odisha 751003, India",hospital,20.2832395074656,85.7735269240381,3.2,09:00:00,20:00:00,12,7.14,85.68
+264,Kar Clinic & Hospital,"Unit 4 Area, A 32, Janpath Rd, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2775111177931,85.8350477695494,3.3,08:00:00,20:00:00,6,14.38,86.28
+265,Usthi Hospital & Research Centre,"Plot No:-N4, 1/1, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.2941539955466,85.812763101462,4.1,08:00:00,23:00:00,12,6.48,77.76
+266,UTKAL HOSPITAL,"Defence Colony Rd, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.3229261929187,85.8018034590391,4.5,10:00:00,22:00:00,17,7.09,120.53
+267,Kalinga Hospital Ltd.,"Maitri Vihar, NALCO Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751023, India",hospital,20.3137909794628,85.8206075197996,1.9,08:00:00,22:00:00,4,11.22,44.88
+268,Sunshine Hospital,"371, Puri - Cuttack Rd, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006, India",hospital,20.2693007601942,85.8500141486544,4.3,10:00:00,20:00:00,38,3.16,120.08
+269,Dr Agarwals Eye Hospital,"2nd Floor, BMC Bhawani Mall, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2882265106094,85.844614909675,3.7,10:00:00,23:00:00,17,8.32,141.44
+270,Kar Vision Eye Hospital,"Infront of, Bus Stop, 10, Janpath Rd, Satya Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2800277476623,85.8440104520763,4.0,10:00:00,22:00:00,39,4.4,171.6
+271,Ankura Hospital for Women & Children - Bhubaneswar,"near Sisubhavan Bus Stop, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",hospital,20.2561083740468,85.8340685198186,1.1,09:00:00,21:00:00,1,14.59,14.59
+272,SUM Hospital,"K8 Kalinga Nagar, Kalinganagar, Bhubaneswar, Odisha 751003, India",hospital,20.2840626349465,85.7710313203226,3.8,10:00:00,21:00:00,12,5.99,71.88
+273,Neelachal Hospital Pvt Ltd,"A/84, near Chandrama Apartment, OFDC Colony, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2709047414434,85.8464770477249,3.3,08:00:00,20:00:00,8,11.14,89.12
+274,Trinity Neuro Hospital & Trauma Centre,"304, Bhol Nagar, Vani Vihar, behind Dcp Office, Square, Bhubaneswar, Odisha 751022, India",hospital,20.2952788548793,85.8414003168389,2.1,10:00:00,23:00:00,5,13.73,68.65
+275,IGKC Multispecialty Hospital,"Plot No:- G1-43/1695, 7QF7+HMX, Ghatikia, KH-443, Ghatikia Main Rd, Kalinganagar, Bhubaneswar, Odisha 751003, India",hospital,20.274414186265,85.7654933630071,2.2,09:00:00,21:00:00,0,14.2,0.0
+276,ESI Hospital,"N2, Road, Block N3, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.3009471217403,85.8226169725469,3.3,10:00:00,20:00:00,13,7.23,93.99
+277,Jagannath Hospital,"185-P, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2901499610798,85.8466571964995,3.4,08:00:00,22:00:00,20,7.17,143.4
+278,Santosh Physiotherapy & Rehabilitation Centre,"J3, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",hospital,20.2974352810513,85.82109336531,2.5,10:00:00,20:00:00,2,14.69,29.38
+279,Aditya Ashwini Hospital,"Plot 329, 8RJG+539, Kalyan Mandap, 1929, Sri Arbindonagar Rd, near BMC, Sri Aurobindo Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",hospital,20.330332012317,85.823758362147,3.2,08:00:00,20:00:00,17,9.15,155.55
+280,Sai Bone & Joint Clinic,"PLOT NO : 7849, Lane 3, near Sainik School Road, Laxmi Vihar, GATE, Bhubaneswar, Odisha 751005, India",hospital,20.3108159646132,85.8356467023267,4.9,08:00:00,21:00:00,22,7.07,155.54
+281,Nirvana Eye Hospital,"Plot no 435/6056, NH16, Aiginia, Khandagiri, Bhubaneswar, Odisha 751019, India",hospital,20.2487910183382,85.7840100105386,2.0,09:00:00,20:00:00,10,13.78,137.8
+282,Blue Wheel Hospital,"Sector A, Mancheswar Industrial Estate, Bhubaneswar, Odisha 751010, India",hospital,20.3098400779743,85.8552752154432,4.6,10:00:00,23:00:00,17,6.41,108.97
+283,L V Prasad Eye Institute,"Mithu Tulsi Chanrai Campus, Patia Rd, Bhubaneswar, Odisha 751024, India",hospital,20.3468752554287,85.8184242048354,3.7,10:00:00,22:00:00,17,5.85,99.45
+284,Maternity Care Hospital - Best Womens Hospital in Bhubaneswar,"A-142, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2947279637815,85.842593420615,3.1,10:00:00,20:00:00,14,8.09,113.26
+285,KIDS Hospital,"1120, Dumduma, Bhubaneswar, Odisha 751019, India",hospital,20.2454608427573,85.7866080011549,4.3,10:00:00,20:00:00,36,3.27,117.72
+286,RK VISION EYE CLINIC || a Super speciality eye hospital || Best eye Hospital in Bhubaneswar,"opposite BDA SAHID NAGAR park, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2868772095697,85.8496830473151,4.4,10:00:00,23:00:00,32,2.79,89.28
+287,Dr. VINAYAK DIABETES CLINIC || Best Diabetes hospital in Bhubaneswar,"Plot no. 747, near BMC Bhawani Mall, park opposite, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.286880856265,85.8496469166274,3.8,09:00:00,23:00:00,10,14.85,148.5
+288,Hi-Tech Hospital & Medical College,"Hi-Tech Hospital Road Pandra, Rasulgarh, Bhubaneswar, Odisha 751025, India",hospital,20.3008966353288,85.8782890989022,2.8,09:00:00,21:00:00,6,14.9,89.4
+289,Sushruta hospital and trauma care Pvt Ltd,"15 forest park, forest park road, near old airport square, Bhubaneswar, Odisha 751009, India",hospital,20.255663184052,85.8285535774902,3.8,08:00:00,21:00:00,7,13.02,91.14
+290,Dr.Abhin Chandra Homoeopathic Medical College And Hospital,"7RFQ+HPX, Homeopathic College Rd, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2743856848904,85.8407528672692,4.7,08:00:00,22:00:00,24,5.91,141.84
+291,CGHS Hospital,"near Durga Mandap, Old Ag Colony, AG Colony, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2798053322711,85.8309137523556,3.4,09:00:00,21:00:00,13,6.21,80.73
+292,The CARE 32 multispeciality Dental Clinic,"Plot No. 170, Bayababa Math Lane, Unit-IX, Flat, Vani Vihar, Bhubaneswar, Odisha 751022, India",hospital,20.2870839458976,85.8398551732507,2.8,08:00:00,23:00:00,0,11.75,0.0
+293,Vision Care Eye Hospital,"24P, behind Maharishi College Road, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2850896761486,85.8514896597581,5.0,10:00:00,22:00:00,36,2.79,100.44
+294,Unit 8 UPHC,"Unit 8, Gopabandhu Nagar, Bhubaneswar, Odisha 751008, India",hospital,20.2758985900217,85.80905230094,3.2,10:00:00,23:00:00,15,6.55,98.25
+295,ANANYA HOSPITAL,"1802, Badagada Canal Rd, Post, BJB Nagar, Bhubaneswar, Odisha 751014, India",hospital,20.259309792751,85.8520754486544,3.5,08:00:00,22:00:00,20,7.0,140.0
+296,ANVI ENT AND HEAD NECK HOSPITAL,"Plot 73, Lane 14, Sector-5, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.3271360282199,85.8030497616088,3.8,10:00:00,23:00:00,20,9.71,194.2
+297,Divine Super Speciality Clinic,"Plot No-1184/3296, Lane Number 1, behind Mangala mandir, Jagamara, Bhubaneswar, Odisha 751030, India",hospital,20.2561729712639,85.8029064535633,3.0,08:00:00,21:00:00,11,8.29,91.19
+298,Maa Shakti Hospital,"Plot No 168, Unit, 6, Ekamra Rd, near PGIMER & Capital Hospital Bhubaneswar, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2588022223534,85.8224534226838,4.8,09:00:00,22:00:00,38,3.24,123.12
+299,ENT Khageswar & Laser ENT Clinic,"HIG Duplex - 50, Saileshreevihar chak, near Tarini Temple, Saileshreevihar, Bhubaneswar, Odisha 751021, India",hospital,20.3342344408527,85.8111412088968,4.6,10:00:00,22:00:00,16,7.95,127.2
+300,Mudita Super Speciality Care,"HIG 39, opposite Pal heights, BDA Colony, Doordarshan Colony, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",hospital,20.2982020164571,85.8263339216692,3.6,08:00:00,22:00:00,16,6.64,106.24
+301,Astang Ayurveda Hospital :: Ayurvedic Hospital in Bhubaneswar,"Phase-1, Plot No: MIG-43, BDA Colony, Pokhariput, Bhubaneswar, Odisha 751020, India",hospital,20.2419987864659,85.8081107172284,2.1,10:00:00,22:00:00,4,10.3,41.2
+302,DRKURE Smart Multi Speciality Clinic,"Plot No 718, Cuttack Rd, Rasulgarh Industrial Estate, Bomikhal, Rasulgarh, Bhubaneswar, Odisha 751010, India",hospital,20.2911389490128,85.8590157995339,3.8,08:00:00,20:00:00,10,13.01,130.1
+303,Spandan Hospital,"7RM5+X9W, CRP - DAV Rd, near Banadurga Enterprise, Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751011, India",hospital,20.2924040080431,85.8137855017208,3.7,09:00:00,21:00:00,5,10.83,54.15
+304,Rajbaidya Ayurveda ;; Ayurvedic Clinic in bhubaneswar II odisha II India,"Plot 3445/12281, Flyover, beside Palasuni, Palasuni, Bhubaneswar, Odisha 751010, India",hospital,20.3045403138667,85.8696892192803,2.8,10:00:00,21:00:00,5,13.41,67.05
+305,Advanced Eyecare Hospital,"A22, NH16, Ruchika Market, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003, India",hospital,20.2790011276233,85.7961917696206,1.7,09:00:00,23:00:00,5,14.85,74.25
+306,Rahat Hospitals: Centre for Women and Child Care | Best Gynecologist in Bhubaneswar,"Plot 349, Saheed Nagar, Bhubaneswar, Odisha 751007, India",hospital,20.2901349678357,85.8478134419303,2.2,10:00:00,20:00:00,10,12.64,126.4
+307,Sara Gastro & Laparoscopic Hospital,"C21, BJB Nagar, Bhubaneswar, Odisha 751014, India",hospital,20.2544678753096,85.847328939565,2.6,10:00:00,23:00:00,0,12.33,0.0
+308,THE SPINE CLINIC,"A/32, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2777780451125,85.8351553253704,4.9,09:00:00,22:00:00,17,8.56,145.52
+309,Central Hospital East Coast Railway,"8RCP+F64, Mancheswar Station Rd, Mancheswar, Bhubaneswar, Odisha 751017, India",hospital,20.3213887661717,85.8369910372727,4.2,09:00:00,20:00:00,13,8.28,107.64
+310,Sanjeevani Medicare Hospital,"Lewis Rd, Samantarapur, Old Town, Bhubaneswar, Odisha 751002, India",hospital,20.2327027127057,85.8423160017595,4.4,10:00:00,22:00:00,11,9.55,105.05
+311,Padma Hospital,"210/1320, Netaji Subhas Road, near State Bank Of Patiala, Sarala Nagar, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006, India",hospital,20.2719333490484,85.8503918448726,3.5,10:00:00,20:00:00,7,13.97,97.79
+312,Satyam Hospital,"N, 5-121, Jayadev Vihar-Ekamra Kanana Rd, Block N5, IRC Village, Nayapalli, Bhubaneswar, Odisha 751013, India",hospital,20.2977827914164,85.8175413431025,4.6,10:00:00,23:00:00,25,9.23,230.75
+313,HILLSIDE NURSING HOME,"92-Dumuduma, Khandagiri Square, Bhubaneswar, Odisha 751030, India",hospital,20.254199001366,85.7891479161173,5.0,10:00:00,20:00:00,50,4.23,211.5
+314,Institute of Medical Sciences and Sum Hospital,"Ground Floor, Sum Hospital Rd, Shampur, Bhubaneswar, Odisha 751003, India",hospital,20.2834464749744,85.7714193760537,1.7,10:00:00,21:00:00,9,12.04,108.36
+315,Composite Hospital ..CRPF.. BBSR,"7RQ3+MPC, CRPF Colony, IRC Village, Nayapalli, Bhubaneswar, Odisha 751011, India",hospital,20.2896206152181,85.8052524240581,3.9,10:00:00,22:00:00,10,12.0,120.0
+316,NAMAH Hospital,"Labour Colony, Unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2767054831508,85.840041993172,3.5,08:00:00,21:00:00,6,12.91,77.46
+317,Pradyumna Bal Memorial Hospital,"KIIT University, Chandaka Industrial Estate, Patia, Bhubaneswar, Odisha 751024, India",hospital,20.3533196331858,85.8137382694653,3.0,08:00:00,23:00:00,18,6.39,115.02
+318,ASSURE HOSPITAL,"Plot no 1369, Khandagiribari, Khandagiri, Bhubaneswar, Odisha 751030, India",hospital,20.2691019091243,85.7855010198186,4.0,09:00:00,20:00:00,32,4.57,146.24
+319,Dr. Kanhu Charan Das | Best Gastroenterologist Near Me | 23+ yrs of Exp | Stomach Specialist | Liver Specialist,"Plot No. 251, Apollo Hospitals, Bhubaneswar, Sainik School Rd, Doordarshan Colony, Unit 15, Bhubaneswar, Odisha 751005, India",hospital,20.3061161819964,85.8339864363253,5.0,08:00:00,22:00:00,39,3.44,134.16
+320,"Regional Govt. Hospital, Unit-VIII","7RG5+844, Unit 8, Gopabandhu Nagar, Bhubaneswar, Odisha 751008, India",hospital,20.2761856181878,85.8089935253834,4.2,09:00:00,21:00:00,50,3.54,177.0
+321,Adoreasia Hospital.Pvt. Ltd,"Iskcon Temple, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.2880321932445,85.8122431125633,2.4,09:00:00,20:00:00,7,13.06,91.42
+322,Aastha Hospital | Health care service | Opd | Icu | Ambulance | Medical Emergency | Diabetic Gastro Hospital | Pathology,"Plot no. 1203/3622, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751003, India",hospital,20.270660796435,85.8066229272488,3.7,10:00:00,23:00:00,14,6.77,94.78
+323,Apollo Hospital EMERGENCY WARD 24x7,"8R4J+4J4, Apollo Hospital, Doordarshan Marg, Doordarshan Colony, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",hospital,20.3057102813993,85.8329995674288,3.6,09:00:00,20:00:00,13,6.8,88.4
+324,"SPARSH HOSPITAL, KANTABADA","In Front Of TSL Spring City Kantabada, Bhubaneswar, Odisha 752054, India",hospital,20.3204115344053,85.7257100789142,1.4,09:00:00,22:00:00,4,13.23,52.92
+325,Dr.K.N Panda(Gastro & Liver clinic),"Khandagiri, Shankarpur, Odisha 751030, India",hospital,20.2655898056557,85.778492349884,4.9,08:00:00,22:00:00,17,5.36,91.12
+326,Practo Care Surgeries,"N2, No, 19, N2, Block N2, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.2944944264121,85.8086438128121,3.6,08:00:00,20:00:00,17,9.39,159.63
+327,Best General practitioner - Dr. Manoj with more than 52+ Years of Experience | Apollo Hospitals | Bhubaneswar,"Plot No. 251, Sainik School Rd, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005, India",hospital,20.3061334349088,85.8331854598922,4.9,10:00:00,21:00:00,48,2.01,96.48
+328,Women and Child Care Hospital,"309, Kailash Vihar, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.3366786233951,85.8082324321268,4.3,10:00:00,21:00:00,14,7.02,98.28
+329,Medcare Hospital & Research Center,"PP-76, Lane-3, Tankapani Road, Pandav Nagar, Bhubaneswar, Odisha 751018, India",hospital,20.2462980782905,85.8507540876315,2.3,10:00:00,21:00:00,0,10.6,0.0
+330,Bhoomika Eye Hospital,"Plot No-1, Forest Park Rd, Forest Park, Bhubaneswar, Odisha 751009, India",hospital,20.2551141821367,85.8324658257492,3.1,08:00:00,23:00:00,14,8.09,113.26
+331,Sai Optical & Eye Clinic,"Shree Krishna Market Complex, near IIIT Square, Gothapatna, Bhubaneswar, Odisha 751003, India",hospital,20.2895955701262,85.7431725875051,1.2,08:00:00,21:00:00,5,12.93,64.65
+332,Dr Jagamohan Mishra Urologist in Bhubaneswar | Andrologist | Uro-Oncologist Surgeon I Asst Prof. IMS & SUM Hospital,"Room No. 14, Kar Clinic and Hospital, near Akash Institute, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",hospital,20.2771562237448,85.8317474661214,1.1,08:00:00,23:00:00,0,14.5,0.0
+333,Shuddhi Hiims (Bhubaneswar) Ayurveda Clinic,"Petrol Pump, opp. Infront Of Young Phoenix Public School, beside Genx Pharma, Nuagaon, Lingipur, Bhubaneswar, Odisha 751002, India",hospital,20.2246401325186,85.8454899784899,1.8,08:00:00,20:00:00,8,10.89,87.12
+334,Dr bharat Panigrahi residence,"N-3/114, N3, Block N3, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",hospital,20.2969208287388,85.8065576998979,4.0,08:00:00,23:00:00,16,5.02,80.32
+335,Sri Sri Borda Hospital,"Badada PVT Hospital, Lewis Rd, near Maa Tarini Temple, Dhauli, Lingipur, Bhubaneswar, Odisha 751002, India",hospital,20.213513017877,85.8543160707034,2.4,10:00:00,21:00:00,9,10.3,92.7
+336,Amrit Health And Research Centre,"Plot no: L/529, Phase-2, Dumduma, Housing Board Rd, colony, Bhubaneswar, Odisha 751019, India",hospital,20.2448489025236,85.7883612015187,3.6,10:00:00,22:00:00,5,14.06,70.3
+337,Apex hospital and Maternity Centre,"905, High School Rd, Millennium Colony, High School Rd, Millennium Colony, Baramunda, Bhubaneswar, Odisha 751003, India",hospital,20.2734228370832,85.8002799891434,4.2,09:00:00,20:00:00,16,6.51,104.16
+338,NEAR KALINGA HOSPITAL,"Doordarshan Colony, Nayapalli, Bhubaneswar, Odisha 751013, India",hospital,20.3142080955805,85.8203925581569,1.3,10:00:00,22:00:00,1,14.85,14.85
+339,Baidyanath Memorial Hospital,"Phase 1, Pani Tanki, 457 9(P), Nagar, Patia Rd, near Patia, Kanan Vihar, Bhubaneswar, Odisha 751024, India",hospital,20.3425142779172,85.8243451720783,2.3,09:00:00,21:00:00,10,14.15,141.5
+340,Ananta Jyot Eye Hospital,"Sachivalaya Marg EW, Samanta Vihar, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",hospital,20.3151878298148,85.8211757576718,3.6,08:00:00,23:00:00,8,12.07,96.56
+341,Nilachal Polyclinic & Diagnostics. SRL diagnostics Authorized,"Plot No - 567 Behera Sahi Chowk, Beherasahi, Nayapalli, Bhubaneswar, Odisha 751012, India",hospital,20.2861959831261,85.8182539084744,4.6,09:00:00,23:00:00,46,2.8,128.8
+342,AMRI HOSPITAL EMPLOYEES UNION OFFICE,"751030, Sri Satyasai Enclave, Khandagiri, Bhubaneswar, Odisha 751030, India",hospital,20.2597168412196,85.777045789645,3.5,08:00:00,23:00:00,5,11.14,55.7
+343,Anatomy Department AIIMS Bhubaneswar,"All India Institute Of Medical Sciences, Dumduma, Sijua, Patrapada, Bhubaneswar, Odisha 751013, India",hospital,20.2314412201646,85.7782373765053,1.5,09:00:00,20:00:00,4,10.26,41.04
+344,Loyola Hospital,"HIG-488, K5, Kalinga Vihar LIG, Bhubaneswar, Odisha 751019, India",hospital,20.2518021765848,85.7579115123923,1.8,10:00:00,20:00:00,9,14.76,132.84
+345,Janani Hospital,"Plot No 120/2457, Lingipur Chowk, near IndianOil, Lingipur, Bhubaneswar, Odisha 751002, India",hospital,20.2171100268879,85.8524744095501,4.0,10:00:00,21:00:00,23,7.95,182.85
+346,Maxfort Hospital Bhubaneswar,"infront of, police station, 37, Gayatri Vihar, Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",hospital,20.3399315374527,85.8219891510197,5.0,08:00:00,23:00:00,26,7.36,191.36
+347,Sum Hospital 24?7 Emergency Ward,"7QMC+C4V, Sum Hospital Rd, Shampur, Bhubaneswar, Odisha 751003, India",hospital,20.2840799562891,85.7724630121284,4.1,10:00:00,23:00:00,17,6.41,108.97
+348,VIKASH HOSPITAL BHUBANESWAR,"No -4659, Sai Residency Plot, 6251/7986, Tankapani Rd, Badagada Brit Colony, Baragarh, Bhubaneswar, Odisha 751018, India",hospital,20.243472776532,85.8637472485958,1.2,08:00:00,20:00:00,6,11.21,67.26
+349,Hospi Home's Baidyanath Hospital- Geriatric Multi Specialty Hospital,"457 9, Pani Tanki, Phase 1, P), Nagar, Patia Rd, near Patia, Kanan Vihar, Bhubaneswar, Odisha 751024, India",hospital,20.3426399031925,85.824657472156,4.0,08:00:00,21:00:00,22,8.13,178.86
+350,Governor House Hospital,"751008, Raj Bhavan Colony, Bhubaneswar, Odisha 751008, India",hospital,20.2702131515914,85.8176142143298,3.9,09:00:00,23:00:00,16,8.07,129.12
+351,Bhubaneswar Super speciality Clinic,"Lane 1, Laxmi Vihar, Vani Vihar, Bhubaneswar, Odisha 751005, India",hospital,20.3106151515758,85.8364075539704,2.3,08:00:00,20:00:00,8,13.79,110.32
+352,Health Point Hospital,"Healthpoint Hospital, 307/A, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751016",hospital,20.3261036983129,85.8206228958963,4.3,09:00:00,20:00:00,28,8.6,240.8
+353,"Eye Department, Capital Hospital.","7R6C+2VG, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",hospital,20.2604722534273,85.8235705952649,4.6,08:00:00,20:00:00,25,9.96,249.0
+354,Dr. Dibya Singha (Best Orthopedic Surgeon in Bhubaneswar) Utkal Hospital,"Cabin No-11, Utkal Hospital Rd, Defence Colony, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",hospital,20.3253554351714,85.802078947995,3.3,09:00:00,20:00:00,12,9.8,117.6
+355,Sanjeevani panchakarma center and piles clinic,"Plot no 1922, Canal Rd, Dayanandnagar, Bomikhal, Rasulgarh, Bhubaneswar, Odisha 751010, India",hospital,20.2872948024678,85.8625564118779,4.2,08:00:00,20:00:00,31,2.49,77.19
+356,Obg & Gynaec Dept IMS & SUM HOSPITAL,"7QM9+8HP, Shampur, Bhubaneswar, Odisha 751003, India",hospital,20.2835823247269,85.7699582817102,3.6,08:00:00,22:00:00,16,6.44,103.04
+357,Paediatric Unit Capital Hospital,"7R6C+CQX, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",hospital,20.2614495484971,85.8234268468199,3.6,08:00:00,23:00:00,18,6.47,116.46
+358,ESI Hospital EMERGENCY GATE,"8R2C+7CQ, Jayadev Vihar, Bhubaneswar, Odisha 751013, India",hospital,20.3011130091306,85.8227181804558,4.5,10:00:00,20:00:00,26,8.15,211.9
+359,Institute Of Gastro & Kidney Care Hospital,"Kalinganagar, Bhubaneswar, Odisha 751003, India",hospital,20.2743041426078,85.7658677698288,3.1,10:00:00,22:00:00,10,12.65,126.5
+360,Nice Pork Meat Shop,"Creative Homes, Baramunda, Bhubaneswar, Odisha 751030, India",meat,20.2603146813635,85.7987136081766,2.9,08:00:00,22:00:00,4,13.96,55.84
+361,4 nos Mutton Shop,"Unit 4 Market, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2787764273689,85.8334374788883,3.9,10:00:00,20:00:00,20,8.25,165.0
+362,Mama Chicken Counter- Order online on EVEGRO,"Odisha, 7VV9 3JW, GGP Colony, Rasulgarh, Bhubaneswar, Odisha 751010, India",meat,20.2929995291032,85.870655436109,4.1,10:00:00,22:00:00,36,2.75,99.0
+363,Odisha meat-online meat delivery,"Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2726103490695,85.8476162663654,4.0,09:00:00,23:00:00,27,6.57,177.39
+364,Odisha meat- online meat home delivery in Bhubaneswar,"INSTITUTE OF HOTEL MANAGEMENT, VSS Nagar Rd, VSS Nagar, Bhubaneswar, Odisha 751007, India",meat,20.2726002848365,85.8479810468038,4.2,09:00:00,21:00:00,12,7.85,94.2
+365,Bula Bhai Mutton Shop,"7R78+4RX, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",meat,20.2629670047729,85.8189150978025,4.7,10:00:00,22:00:00,43,4.56,196.08
+366,Hira Mutton Shop(Riyaz Bhai)- Order online on EVEGRO,"Kalinganagar, Bhubaneswar, Odisha 751003, India",meat,20.2801384070413,85.7631145020704,3.4,10:00:00,23:00:00,7,12.59,88.13
+367,OPOLFED Chicken Fresh- Order online from EVEGRO,"7RPW+774, Maharishi College Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",meat,20.2858780035875,85.8467515831121,4.9,10:00:00,22:00:00,22,9.39,206.58
+368,My FRESH PLANET,"Lewis Road, Ravi Talkies Rd, Campus, Bhubaneswar, Odisha 751002, India",meat,20.2453000353208,85.8420209118779,3.3,09:00:00,21:00:00,7,11.06,77.42
+369,CHICKEN SHOP TITU THE NON-VEG WORLD- Order online on EVEGRO,"Rasulgarh, Lane, E Canal Rd, Brahmeswarpatna, Bhubaneswar, Odisha 751010, India",meat,20.2980013144536,85.8651366491685,4.0,09:00:00,21:00:00,28,8.87,248.36
+370,Rajdhani Broilers- Order online on EVEGRO,"Rama Devi College Rd, OPTCL Colony, UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.2923961622767,85.836039737328,4.2,09:00:00,23:00:00,34,2.17,73.78
+371,Anish Fish and Chicken,"7RX6+RJG, Janata Nagar, Salia Sahi, Bhubaneswar, Odisha 751013, India",meat,20.2997916669211,85.8134262642781,3.6,08:00:00,21:00:00,14,9.02,126.28
+372,Haji Liyakat's Mutton Shop,"8 Mansakata Gali, Cuttack Rd, Bhubaneswar, Odisha 751006, India",meat,20.2619819209708,85.8452568987469,3.1,09:00:00,23:00:00,5,11.87,59.35
+373,Eastern Hatchery Pvt Ltd,"Plot No. 1450, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015, India",meat,20.2798776315994,85.8483705936332,2.3,09:00:00,22:00:00,5,13.5,67.5
+374,Capital Broilers,"61, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007, India",meat,20.2932803838019,85.8494291751013,3.1,09:00:00,20:00:00,12,9.62,115.44
+375,Mutton Shop,"Plot no - 310, Bhimpur, Ganga Nagar, Bhubaneswar, Odisha 751020, India",meat,20.2602826468933,85.8175642906739,4.3,10:00:00,23:00:00,30,6.29,188.7
+376,Monoroma Foodies,"vending zone- 32&33, XIMB Square, Maitri Vihar, Rail Vihar, Gajapati Nagar, Bhubaneswar, Odisha 751013, India",meat,20.3088196283209,85.8208692393792,2.9,08:00:00,22:00:00,3,11.05,33.15
+377,Quicku,"Plot No-207, Phase 4, Panchasakha Nagar, Dumduma, Bhubaneswar, Odisha 751019, India",meat,20.2477419853497,85.7933949110793,3.7,09:00:00,23:00:00,14,9.31,130.34
+378,"Manoj Chicken, Damana","16, S.S. Vihar Road, Phase II, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",meat,20.332465757436,85.8209940389587,2.1,10:00:00,20:00:00,5,11.31,56.55
+379,EVEGRO,"SV- 46, Sambit Villa, Ghatikia, Bhubaneswar, Odisha 751003, India",meat,20.2695066599518,85.771723001287,1.0,10:00:00,20:00:00,9,14.91,134.19
+380,Bhubaneswar Broiler- Order online on EVEGRO,"UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.2869683480208,85.8375720748986,2.6,09:00:00,23:00:00,0,11.8,0.0
+381,Munna mutton centre,"131/E, H.B Colony, Punjabi Colony, Satya Nagar, Bhubaneswar, Odisha 751007, India",meat,20.2820818907368,85.8511944742997,4.4,09:00:00,22:00:00,33,2.51,82.83
+382,Budhia chicken centre,"P.D.Market, CRP - DAV Rd, Gopabandhu Nagar, Bhubaneswar, Odisha 751012, India",meat,20.2838536242455,85.8098101725533,5.0,09:00:00,21:00:00,44,4.96,218.24
+383,CAPITAL BROILERS,"Plot no 16, Soubhagya Nagar, Baramunda, Bhubaneswar, Odisha 751030, India",meat,20.2709023720711,85.8081818444149,2.6,09:00:00,20:00:00,5,11.84,59.2
+384,Kookudu Chicken Wholesale and Retail,"8V4R+Q59, Balianta, Bhubaneswar, Odisha 752101, India",meat,20.3068299692255,85.8915795186531,5.0,08:00:00,21:00:00,27,5.24,141.48
+385,Mustafa Mutton Shop- Order online from EVEGRO,"Maa Kali daily market, Niladri Vihar Rd, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751023, India",meat,20.3261506806123,85.815109503229,3.9,08:00:00,20:00:00,5,13.03,65.15
+386,SAHID mutton shop,"7RPP+P96, Baya Baba Matha Rd, UNIT- 9, Bhubaneswar, Odisha 751022, India",meat,20.2873052315602,85.8377652125976,3.2,08:00:00,20:00:00,20,6.94,138.8
+387,Ayub mutton shop- Order online from EVEGRO,"shop No-6 & 7, Jai kishan Market unit 3, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2728161625013,85.8475834122474,3.2,09:00:00,22:00:00,10,12.69,126.9
+388,SK Meat Bhubaneswar,"SHOP NO, OG-396, Unit 4 Market, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2776475580775,85.8323518549777,4.2,09:00:00,23:00:00,24,9.35,224.4
+389,Jumma Mutton Shop- Order online from EVEGRO,"125, Niladri Vihar Rd, HIG Colony, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.3257054261869,85.8161571910974,3.2,08:00:00,23:00:00,20,5.84,116.8
+390,MEAT MORE,"Phase-2, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024, India",meat,20.3487885512475,85.8303802730528,1.2,09:00:00,22:00:00,4,13.61,54.44
+391,Murad mutton shop,"Unit 4 Market, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2778239714171,85.8324314116563,2.3,10:00:00,22:00:00,2,13.7,27.4
+392,MIR MUTTON CENTRE,"7RHJ+9VG, Masjid Rd, AG Colony, Unit 4, Bhouma Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2786816561251,85.8337814291527,3.4,08:00:00,20:00:00,14,7.23,101.22
+393,Kansei Khana (Chicken & Mutton shop),"1st Floor, Plot No 69/3989, Jharapada Canal Rd, Laxmisagar, Bhubaneswar, Odisha 751006, India",meat,20.2706098902447,85.8637605155791,1.1,10:00:00,23:00:00,9,14.16,127.44
+394,Mukul Non Veg World- Order online from EVEGRO,"Vss Nagar To Mancheswar Station Rd, DL Colony, Laxmi Nagar, Bhubaneswar, Odisha 751007, India",meat,20.3119965983578,85.8468399643232,4.7,08:00:00,23:00:00,50,2.83,141.5
+395,ODSHOP-Online Supermarket in Bhubaneswar,"Aiginia, Shreekhetra Vihar, Khandagiri, Bhubaneswar, Odisha 751019, India",meat,20.2462329519673,85.7814203736588,5.0,10:00:00,20:00:00,26,5.29,137.54
+396,Crucnchy Munchie,"7R4W+WMG, Kalpana Square, Laxmisagar, Bhubaneswar, Odisha 751006, India",meat,20.2618387023193,85.8451805181446,2.4,10:00:00,23:00:00,0,10.14,0.0
+397,Haji Muntaj Ali Khan(Kala Mutton Shop),"Plot No=718, Near, Venus Inn St, Sweets, Bapuji Nagar, Bhubaneswar, Odisha 751009, India",meat,20.2579906769147,85.8399357327864,3.6,09:00:00,20:00:00,13,7.03,91.39
+398,Punama gata old town,"Poonama Gate Flyover, Bhimatangi Housing Colony, Bhubaneswar, Odisha 751002, India",meat,20.2441452733453,85.8285737197123,4.8,09:00:00,22:00:00,42,3.93,165.06
+399,Khan Chicken Centre,"7R33+QXW, Jagmohan Nagar, Bhubaneswar, Odisha 751030, India",meat,20.2548273889773,85.8065213523557,4.5,09:00:00,23:00:00,24,8.8,211.2
+400,Habib Mutton,"8RJH+JHW, Mahima Mandir Rd, Damana, Chandrasekharpur, Bhubaneswar, Odisha 751017, India",meat,20.3318716036639,85.8301603501138,2.3,08:00:00,21:00:00,2,14.47,28.94
+401,Altaf mutton shop,"7RCW+XGP, Master Canteen Area, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",meat,20.2727750912563,85.8476345891322,2.1,10:00:00,21:00:00,2,11.9,23.8
+402,Chickni fastfood,"8RC6+VQ2, Lumbini Vihar Rd, Lumbini Vihar, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.3224438152298,85.8132026316373,4.4,09:00:00,23:00:00,31,3.52,109.12
+403,Lipu chicken counter,"K4, Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019, India",meat,20.2535474373513,85.7606874677127,2.5,09:00:00,22:00:00,9,11.03,99.27
+404,Mangu Mutton Center- Order online on EVEGRO,"151, Niladri Vihar Rd, Prachi Enclave, District Center, Chandrasekharpur, Bhubaneswar, Odisha 751016, India",meat,20.3262226372041,85.8153822244516,4.1,09:00:00,21:00:00,28,8.29,232.12
+405,AZAD CHICKEN CENTER,"8RG3+9C2, Ishaneswar Temple Rd, Sector-5, Lumbini Vihar, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.3263140893404,85.8045344778955,3.1,08:00:00,22:00:00,17,7.77,132.09
+406,Bhubhaneswar,"172, Unit 6, Ganga Nagar, Bhubaneswar, Odisha 751025, India",meat,20.2581510915991,85.7938184255564,3.9,08:00:00,22:00:00,19,10.0,190.0
+407,I love Badagada,"7R3X+7V9, Badagada Brit Colony, Pandav Nagar, Bhubaneswar, Odisha 751018, India",meat,20.2533933956003,85.8511629418669,3.9,10:00:00,22:00:00,9,11.2,100.8
+408,Rasidul Molla,"Railway Station, near Hotel Exilency, Master Canteen Area, Ashok Nagar, Bhubaneswar, Odisha 751009, India",meat,20.2667860219595,85.8437451081558,3.4,09:00:00,20:00:00,16,5.31,84.96
+409,Mutton cutting centre,"327/2100, Mancheswar Railway Station Rd, Chandrasekharpur, Bhubaneswar, Odisha 751017, India",meat,20.3204046092717,85.8258798201442,3.4,09:00:00,22:00:00,20,5.34,106.8
+410,Tikka Banmalipur Mutton,"8RG7+6JC, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021, India",meat,20.3259278881798,85.8152312584458,4.4,10:00:00,23:00:00,26,9.93,258.18
+411,Gadakan tala sahi,"8RJP+5MX, Gadeswar, Bhubaneswar, Odisha 7510 Arpita sahoo17, India",meat,20.330814973558,85.8382361664246,4.0,10:00:00,23:00:00,16,9.2,147.2
+412,Sanvi's champaran ahuna mutton,"8RP8+RV8, Phase-VII, Rangeswar Nagar, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024, India",meat,20.3374488828588,85.8187705764243,3.1,09:00:00,22:00:00,20,7.21,144.2
